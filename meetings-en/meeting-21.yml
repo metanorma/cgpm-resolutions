@@ -20,10 +20,10 @@ resolutions:
     date_effective: 1999-10-15
     message: |-
       *considering*
-
-        cgpm-resolution:en/20/11[Resolution 11] of the 20th General Conference, which requested the International Committee to study and report on the long-term needs relating to metrology,
-       the study which was completed in 1997 after extensive international consultations,
-       the resultant report, entitled _National and international needs relating to metrology: International collaborations and the role of the BIPM_, which was sent by the International Committee in 1998 to the governments of the Member States,
+      +
+      cgpm-resolution:en/20/11[Resolution 11] of the 20th General Conference, which requested the International Committee to study and report on the long-term needs relating to metrology,
+      the study which was completed in 1997 after extensive international consultations,
+      the resultant report, entitled _National and international needs relating to metrology: International collaborations and the role of the BIPM_, which was sent by the International Committee in 1998 to the governments of the Member States,
   - type: noting
     date_effective: 1999-10-15
     message: "*notes* the discussion in the report of the International Committee
@@ -33,14 +33,18 @@ resolutions:
     date_effective: 1999-10-15
     message: |-
       *welcomes* the many decisions made by the International Committee as a consequence of the study and, in particular
-
-       the progressive broadening of the terms of reference of the Consultative Committees to cover the principal fields of metrology where collaboration between the national metrology institutes is important, not only in physics and engineering but also in other disciplines such as chemistry and biotechnology,
-       the strengthening of the role of the Consultative Committees and the admission of observers to their meetings to enable more Member States to participate,
-       the emphasis on evaluating and publishing the degree of equivalence of national measurement standards of the Member States and on the establishment of an associated mutual recognition arrangement of national measurement standards and of calibration and measurement certificates issued by national metrology institutes,
-       the introduction of periodic meetings with the directors of the national metrology institutes of the Member States,
-       the statement by the International Committee of the role of the BIPM in the early decades of the 21st century,
-       the increased collaboration of the BIPM with related international organizations, especially the regional metrology organizations, the International Laboratory Accreditation Cooperation and the Organisation Internationale de Métrologie Légale,
-       the considerable progress already made by the International Committee in implementing its decisions,
+      +
+      the progressive broadening of the terms of reference of the Consultative Committees to cover the principal fields of metrology where collaboration between the national metrology institutes is important, not only in physics and engineering but also in other disciplines such as chemistry and biotechnology,
+      +
+      the strengthening of the role of the Consultative Committees and the admission of observers to their meetings to enable more Member States to participate,
+      +
+      the emphasis on evaluating and publishing the degree of equivalence of national measurement standards of the Member States and on the establishment of an associated mutual recognition arrangement of national measurement standards and of calibration and measurement certificates issued by national metrology institutes,
+      +
+      the introduction of periodic meetings with the directors of the national metrology institutes of the Member States,
+      the statement by the International Committee of the role of the BIPM in the early decades of the 21st century,
+      the increased collaboration of the BIPM with related international organizations, especially the regional metrology organizations, the International Laboratory Accreditation Cooperation and the Organisation Internationale de Métrologie Légale,
+      +
+      the considerable progress already made by the International Committee in implementing its decisions,
   - type: thanks / expresses-appreciation
     date_effective: 1999-10-15
     message: "*thanks* the many organizations and individuals who have contributed
@@ -62,10 +66,12 @@ resolutions:
     message: |-
       *considering*
 
-        cgpm-resolution:en/20/2[Resolution 2] of the 20th General Conference concerning worldwide traceability of measurements,
-       the rapidly increasing emphasis on the need to demonstrate international equivalence of measurements and test results related to trade,
-       the increasing number of mutual recognition arrangements and agreements being negotiated internationally concerning calibration and testing services,
-       that the calibration and testing services in each nation depend on a national metrology institute both for their measurement standards and for traceability to the SI,
+      cgpm-resolution:en/20/2[Resolution 2] of the 20th General Conference concerning worldwide traceability of measurements,
+      the rapidly increasing emphasis on the need to demonstrate international equivalence of measurements and test results related to trade,
+      +
+      the increasing number of mutual recognition arrangements and agreements being negotiated internationally concerning calibration and testing services,
+      +
+      that the calibration and testing services in each nation depend on a national metrology institute both for their measurement standards and for traceability to the SI,
   - type: recognizing
     date_effective: 1999-10-15
     message: "*recognizes* that mutual recognition of the national measurement standards
@@ -138,29 +144,29 @@ resolutions:
   actions:
   - type: decides
     date_effective: 1999-10-15
-    message: "*decides*\n\n to assume a responsibility for providing those States
+    message: "*decides*\n\nto assume a responsibility for providing those States
       and Economies not yet members of the Metre Convention with the means to establish
       links to the world's measurement system so as to provide recognition of the
-      traceability of their measurements to the SI, \n that an important link can
+      traceability of their measurements to the SI, \n\nthat an important link can
       be through participation in the mutual recognition arrangement related to national
-      measurement standards now operated by the International Committee, \n that participation
+      measurement standards now operated by the International Committee, \n\nthat participation
       in the arrangement for such a State or Economy should be by the association
       of their national metrology institutes with a regional metrology organization
       that is a member of the Joint Committee of the Regional Metrology Organizations
-      and the BIPM, \n\nand consequently *decides*\n\n to invite such States and Economies
+      and the BIPM, \n\nand consequently *decides*\n\nto invite such States and Economies
       to take part in the General Conference as Associates, thereby establishing the
       connection with the Member States of the Metre Convention necessary for them
-      to participate in the mutual recognition arrangement, \n that Associate States
+      to participate in the mutual recognition arrangement, \n\nthat Associate States
       and Economies of the General Conference participate in the Conference through
-      the appointment of non-voting observers, \n that Associate States and Economies
+      the appointment of non-voting observers, \n\nthat Associate States and Economies
       shall pay an annual subscription to the BIPM to meet the cost of providing the
       services that the International Committee may make available to them; the annual
       subscription of each Associate State or Economy will be determined from its
       UN contribution, as for Member States but with a minimum equal to 0.05 % of
-      the annual dotation of the BIPM, \n that a State or Economy wishing to become
+      the annual dotation of the BIPM, \n\nthat a State or Economy wishing to become
       an Associate may do so by application to the Director of the BIPM, either directly
       or through its Embassy in Paris, and by the payment of the first annual subscription,
-      \n that an Associate State or Economy three years in arrears with its subscription
+      \n\nthat an Associate State or Economy three years in arrears with its subscription
       cease to be an Associate; it may be reinstated on payment of these arrears."
 - dates:
   - 1999-10-15
@@ -236,13 +242,15 @@ resolutions:
     message: |-
       *recalling* that
 
-       in 1983 the 17th General Conference adopted a new definition of the metre,
-       in the same year the General Conference invited the International Committee
+      in 1983 the 17th General Conference adopted a new definition of the metre,
+      +
+      in the same year the General Conference invited the International Committee
 
       * to draw up instructions for the practical realization of the metre (the _mise en pratique_,
       * to choose radiations which can be recommended as standards of wavelength for the interferometric measurement of length and draw up instructions for their use,
       * to pursue studies to improve these standards and, in due course, to extend or revise these instructions,
-       in response to this invitation the International Committee made recommendations in 1983 and again in 1992 concerning the practical realization of the metre,
+      
+      in response to this invitation the International Committee made recommendations in 1983 and again in 1992 concerning the practical realization of the metre,
   - type: considering
     date_effective: 1999-10-15
     message: considering that science and technology continue to demand improved accuracy
@@ -618,9 +626,9 @@ resolutions:
     message: |-
       *decides* that
 
-       henceforth the currency to be used in voting the annual dotation for the BIPM will be the euro,
-       the fixed part of the annual dotation of the Bureau International des Poids et Mesures will be increased in a way such that the sum of the fixed part and the complementary part (defined by Article 6, 1921) of the Rules annexed to the Metre Convention (1875) shall, for those States members of the Metre Convention at the time of the 21st General Conference, be
-
+      henceforth the currency to be used in voting the annual dotation for the BIPM will be the euro,
+      the fixed part of the annual dotation of the Bureau International des Poids et Mesures will be increased in a way such that the sum of the fixed part and the complementary part (defined by Article 6, 1921) of the Rules annexed to the Metre Convention (1875) shall, for those States members of the Metre Convention at the time of the 21st General Conference, be
+      +
       8 697 000 euros in 2001 (31 440 039 gold francs) +
       8 828 000 euros in 2002 (31 913 610 gold francs) +
       8 960 000 euros in 2003 (32 390 796 gold francs) +

@@ -25,10 +25,10 @@ resolutions:
     date_effective: 1991-10-03
     message: |-
       remarks that this accuracy
-
-       can be further improved by the better use of the satellite techniques already developed,
-       reveals the differences and systematic variations among atomic frequency standards,
-       allows a better synchronization of national time scales,
+      +
+      can be further improved by the better use of the satellite techniques already developed,
+      reveals the differences and systematic variations among atomic frequency standards,
+      allows a better synchronization of national time scales,
   - type: recommends
     date_effective: 1991-10-03
     message: recommends the construction of new primary caesium standards, the improvement
@@ -117,9 +117,9 @@ resolutions:
     date_effective: 1991-10-03
     message: |-
       noting
-
-       that the cgpm-resolution:en/18/7[18th Conférence Générale in its Resolution 7] had invited the Comité International des Poids et Mesures and national laboratories to prepare and adopt a new international scale to replace the International Practical Temperature Scale of 1968, by then known to differ significantly from thermodynamic temperatures,
-       that the International Temperature Scale of 1990 (ITS-90) adopted by the Comité International in 1989 at its 78th Meeting is generally more precise, more readily realized and more nearly in accord with thermodynamic temperatures, and that it fulfills the requirements demanded of it by Resolution 7 of the 18th Conférence Générale,
+      +
+      that the cgpm-resolution:en/18/7[18th Conférence Générale in its Resolution 7] had invited the Comité International des Poids et Mesures and national laboratories to prepare and adopt a new international scale to replace the International Practical Temperature Scale of 1968, by then known to differ significantly from thermodynamic temperatures,
+      that the International Temperature Scale of 1990 (ITS-90) adopted by the Comité International in 1989 at its 78th Meeting is generally more precise, more readily realized and more nearly in accord with thermodynamic temperatures, and that it fulfills the requirements demanded of it by Resolution 7 of the 18th Conférence Générale,
   actions:
   - type: recommends
     date_effective: 1991-10-03
@@ -146,11 +146,8 @@ resolutions:
 
       |===
       .<| Multiplying factor .<| Prefix .<| Symbol
-
-      3+|
       .<| stem:[10^(21)] .<| zetta .<| Z
       .<| stem:[10^(-21)] .<| zepto .<| z
       .<| stem:[10^(24)] .<| yotta .<| Y
       .<| stem:[10^(-24)] .<| yocto .<| y
-
       |===

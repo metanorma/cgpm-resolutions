@@ -185,14 +185,12 @@ resolutions:
       *decides* to add:
 
       |===
-      .>| wave number .>| 1 per metre .>| stem:["m"^(-1)]
-
+      .<| wave number .<| 1 per metre .<| stem:["m"^(-1)]
       .<| entropy .<| joule per kelvin .<| stem:["J"/"K"]
       .<| specific heat capacity .<| joule per kilogram kelvin .<| stem:["J"/("kg" * "K")]
       .<| thermal conductivity .<| watt per metre kelvin .<| stem:["W"/("m" * "K")]
       .<| radiant intensity .<| watt per steradian .<| stem:["W"/"sr"]
       .>| activity (of a radioactive source) .>| 1 per second .>| stem:["s"^(-1)]
-
       |===
 - dates:
   - 1967-10-16
@@ -299,8 +297,8 @@ resolutions:
     date_effective: 1967-10-16
     message: |-
       décide que la partie fixe de la dotation annuelle à partir du 1^er^ janvier 1969 sera augmentée par rapport à ce qu'elle était au 1^er^ octobre 1967, de façon que l'ensemble de la partie fixe et de la partie complémentaire calculée à cette dernière date ne soit pas inférieur à
-
-       1 910 000 francs-or en 1969 +
+      +
+      1 910 000 francs-or en 1969 +
       2 080 000 francs-or en 1970 +
       2 270 000 francs-or en 1971 +
       2 475 000 francs-or en 1972
@@ -348,32 +346,24 @@ resolutions:
     date_effective: 1967-10-16
     message: |-
       considérant que les dotations minimales décidées par sa cgpm-resolution:fr/13/10[Résolution 10], à savoir
-
-      [width=222]
-      |===
-      .<| 1 910 000 francs-or en 1969
-
-      .<| 2 080 000 francs-or en 1970
-      .<| 2 270 000 francs-or en 1971
-      .<| 2 475 000 francs-or en 1972
-
-      |===
+      +
+      1 910 000 francs-or en 1969 +
+      2 080 000 francs-or en 1970 +
+      2 270 000 francs-or en 1971 +
+      2 475 000 francs-or en 1972
+      +
       doivent être complétées par des ressources supplémentaires destinées à assurer le développement du Bureau international des poids et mesures,
   actions:
   - type: decides
     date_effective: 1967-10-16
     message: |-
       décide d'allouer au Bureau international, dans les quatre années 1969-1972, les sommes supplémentaires suivantes :
+      +
+      90 000 francs-or en 1969 +
+      210 000 francs-or en 1970 +
+      350 000 francs-or en 1971 +
+      515 000 francs-or en 1972
 
-      [width=222]
-      |===
-      .<| 90 000 francs-or en 1969
-
-      .<| 210 000 francs-or en 1970
-      .<| 350 000 francs-or en 1971
-      .<| 515 000 francs-or en 1972
-
-      |===
   - type: appoints
     date_effective: 1967-10-16
     message: autorise que ces sommes supplémentaires puissent être payées en monnaie

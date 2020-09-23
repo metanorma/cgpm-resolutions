@@ -86,9 +86,9 @@ resolutions:
     message: |-
       considers that the zero of the centesimal thermodynamic scale must be defined as the temperature 0.0100 degree below that of the triple point of water.
 
-       The CCTC accepts the principle of an absolute thermodynamic scale with a single fundamental fixed point, at present provided by the triple point of pure water, the absolute temperature of which will be fixed at a later date. +
+      The CCTC accepts the principle of an absolute thermodynamic scale with a single fundamental fixed point, at present provided by the triple point of pure water, the absolute temperature of which will be fixed at a later date. +
       The introduction of this new scale does not affect in any way the use of the International Scale, which remains the recommended practical scale.
-       The unit of quantity of heat is the joule.
+      The unit of quantity of heat is the joule.
 
       Note: It is requested that the results of calorimetric experiments be as far as possible expressed in joules. If the experiments are made by comparison with the rise of temperature of water (and that, for some reason, it is not possible to avoid using the calorie), the information necessary for conversion to joules must be provided. The CIPM, advised by the CCTC, should prepare a table giving, in joules per degree, the most accurate values that can be obtained from experiments on the specific heat of water.
 
@@ -186,7 +186,7 @@ resolutions:
     message: |-
       *considering* that the Comité International des Poids et Mesures (CIPM) has been requested by the International Union of Physics to adopt for international use a practical Système International d'Unités; that the International Union of Physics recommends the MKS system and one electric unit of the absolute practical system, but does not recommend that the CGS system be abandoned by physicists;
        +
-       that the CGPM has itself received from the French Government a similar request, accompanied by a draft to be used as basis of discussion for the establishment of a complete specification of units of measurement;
+      that the CGPM has itself received from the French Government a similar request, accompanied by a draft to be used as basis of discussion for the establishment of a complete specification of units of measurement;
   actions:
   - type: instructs
     date_effective: 1948-10-21
@@ -230,15 +230,15 @@ resolutions:
       the integral part of numbers from the decimal part. Numbers may be divided in
       groups of three in order to facilitate reading; neither dots nor commas are
       ever inserted in the spaces between groups.\n\n[width=80%]\n|===\n.<| Unit .<|
-      Symbol .18+| .<| Unit .<| Symbol\n\n2+| 2+|\n.<| ·metre .<| stem:[\"m\"] .<|
+      Symbol .<| Unit .<| Symbol\n.<| ·metre .<| stem:[\"m\"] .<|
       ampere .<| stem:[\"A\"]\n.<| ·square metre .<| stem:[\"m\"^(2)] .<| volt .<|
       stem:[\"V\"]\n.<| ·cubic metre .<| stem:[\"m\"^(3)] .<| watt .<| stem:[\"W\"]\n.<|
       ·micron .<| stem:[\"µ\"] .<| ohm .<| stem:[ sf Omega ]\n.<| ·litre .<| l .<|
       coulomb .<| stem:[\"C\"]\n.<| ·gram .<| stem:[\"g\"] .<| farad .<| stem:[\"F\"]\n.<|
       ·tonne .<| stem:[\"t\"] .<| henry .<| stem:[\"H\"]\n.<| second .<| stem:[\"s\"]
       .<| hertz .<| stem:[\"Hz\"]\n.<| erg .<| erg .<| poise .<| P\n.<| dyne .<| dyn
-      .<| newton .<| stem:[\"N\"]\n.<| degree Celsius .<| stem:[\"°C\"] .<| ·candela
-      .<|  \n.<|   .<|   .<| (new candela) .<| stem:[\"cd\"]\n.<| ·degree absolute
+      .<| newton .<| stem:[\"N\"]\n.<| degree Celsius .<| stem:[\"°C\"] .<| ·candela (new candela)
+      .<| stem:[\"cd\"]\n.<| ·degree absolute
       .<| stem:[\"°K\"] .<| lux .<| stem:[\"lx\"]\n.<| calorie .<| stem:[\"cal\"]
       .<| lumen .<| stem:[\"lm\"]\n.<| stem:[\"bar\"] .<| stem:[\"bar\"] .<| stilb
       .<| stem:[\"sb\"]\n.<| hour .<| stem:[\"h\"] .<|   .<|  \n\n|==="

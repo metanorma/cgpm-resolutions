@@ -354,7 +354,7 @@ resolutions:
     date_effective: 2011-10-21
     message: |-
       *decides* that the annual dotation of the BIPM, as defined in Article 6, 1921, of the Regulations annexed to the Metre Convention, will be increased in such a way that, for those States that are Parties to the Metre Convention at the time of the 24th meeting of the CGPM, it shall be:
-
+      +
       11 577 000 euros in 2013 +
       11 693 000 euros in 2014 +
       11 810 000 euros in 2015
@@ -508,8 +508,10 @@ resolutions:
       *considering* Article 6 paragraphs 6 to 8 of the Regulations annexed to the Metre Convention reads:
       _"6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées._ +
       _7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années._ +
-      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_ [[_ftnref1]] cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) defining the decision-making process and a procedure governing the recovery of arrears and exclusion,
-       the contributions of States Parties to the Metre Convention in arrears for more than 6 years and advances made by the other States Parties pursuant to Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
+      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_
+      +
+      cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) defining the decision-making process and a procedure governing the recovery of arrears and exclusion,
+      the contributions of States Parties to the Metre Convention in arrears for more than 6 years and advances made by the other States Parties pursuant to Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
   - type: reaffirming
     date_effective: 2011-10-21
     message: "*reaffirming* the absolute necessity that contributions of States Parties
@@ -550,7 +552,9 @@ resolutions:
       *recalling that* Article 6 paragraphs 6 to 8 of the Rules annexed to the Metre Convention reads:
       _"6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées._ +
       _7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années._ +
-      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_ [[_ftnref1]] cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) which provides that when a State Party to the Metre Convention has not paid its contributions for six years, the International Committee for Weights and Measures (CIPM) may enter into a rescheduling agreement with the defaulting State for the payment of its arrears,
+      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_
+      +
+      cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) which provides that when a State Party to the Metre Convention has not paid its contributions for six years, the International Committee for Weights and Measures (CIPM) may enter into a rescheduling agreement with the defaulting State for the payment of its arrears,
   - type: considering
     date_effective: 2011-10-21
     message: |-

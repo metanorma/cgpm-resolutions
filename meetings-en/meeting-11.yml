@@ -237,7 +237,7 @@ resolutions:
   - type: considering
     date_effective: 1960-10-20
     message: |-
-      estime que la longueur d'onde de la radiation émise par la colonne positive est égale, à 1 cent millionième stem:[(10^(-8))] près, à la longueur d'onde correspondant à la transition entre les niveaux non perturbés, lorsque les conditions suivantes sont satisfaites :
+      estime que la longueur d'onde de la radiation émise par la colonne positive est égale, à 1 cent millionième stem:[(10^(-8))]près, à la longueur d'onde correspondant à la transition entre les niveaux non perturbés, lorsque les conditions suivantes sont satisfaites :
 
       . le capillaire est observé en bout de façon que les rayons lumineux utilisés cheminent du côté cathodique vers le côté anodique ;
       . la partie inférieure de la lampe, y compris le capillaire, est immergée dans un bain réfrigérant maintenu à la température du point triple de l'azote, à 1 degré près ;
@@ -249,7 +249,7 @@ resolutions:
       la mise en pratique de la nouvelle définition du mètre (^1^) ;\n. à choisir
       des étalons secondaires de longueur d'onde pour la mesure interférentielle des
       longueurs et à établir des instructions pour leur emploi ;\n. à poursuivre les
-      études entreprises en vue d'améliorer les étalons de longueur.\n\n \n\n(^1^)
+      études entreprises en vue d'améliorer les étalons de longueur.\n\n(^1^)
       Dans sa session d'octobre 1960, le Comité international des poids et mesures
       a adopté la Recommandation suivante concernant les premières instructions pour
       la mise en pratique de la définition du mètre :\n\n« Conformément au paragraphe
@@ -381,14 +381,14 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 1960-10-20
-    message: "*considering*\n\n  cgpm-resolution:en/10/6[Resolution 6] of the 10th
+    message: "*considering*\n\ncgpm-resolution:en/10/6[Resolution 6] of the 10th
       CGPM, by which it adopted six base units on which to establish a practical system
       of measurement for international use:\n\n[width=100%]\n|===\n.<| length .<|
       metre .<| stem:[\"m\"]\n\n.<| mass .<| kilogram .<| stem:[\"kg\"]\n.<| time
       .<| second .<| stem:[\"s\"]\n.<| electric current .<| ampere .<| stem:[\"A\"]\n.<|
       thermodynamic temperature .<| degree Kelvin .<| stem:[\"°K\"]\n.<| luminous
-      intensity .<| candela .<| stem:[\"cd\"]\n\n|===\n Resolution 3 adopted by the
-      Comité International des Poids et Mesures (CIPM) in 1956, \n [[para3]]"
+      intensity .<| candela .<| stem:[\"cd\"]\n\n|===\nResolution 3 adopted by the
+      Comité International des Poids et Mesures (CIPM) in 1956,"
   actions:
   - type: decides
     date_effective: 1960-10-20
@@ -398,22 +398,17 @@ resolutions:
       . the system founded on the six base units above is called the "Système International d'Unités";
       . the international abbreviation of the name of the system is SI;
       . names of multiples and submultiples of the units are formed by means of the following prefixes:
-       +
-       +
 
       |===
-      2+^.<| Multiplying factor | .<| Prefix .<| Symbol | 2+^.<| Multiplying factor | .<| Prefix .<| Symbol
-
-      11+|
-      >.>| 1 000 000 000 000 .>| = stem:[10^(12)] | | tera | stem:["T"] | >.>| 0.1 .>| = stem:[10^(-1)] | | deci | d
-      >.>| 1 000 000 000 .>| = stem:[10^(9)] | | giga | G | >.>| 0.01 .>| = stem:[10^(-2)] | | centi | c
-      >.>| 1 000 000 .>| = stem:[10^(6)] | | mega | M | >.>| 0.001 .>| = stem:[10^(-3)] | | milli | stem:["m"]
-      >.>| 1 000 | = stem:[10^(3)] | | kilo | k | >.>| 0.000 001 | = stem:[10^(-6)] | | micro | stem:["µ"]
-      >.<| 100 .>| = stem:[10^(2)] | | hecto | stem:["h"] | >.>| 0.000 000 001 .>| = stem:[10^(-9)] | | nano | n
-      >| 10 | = stem:[10^(1)] | | deca | da | >| 0.000 000 000 001 | = stem:[10^(-12)] | | pico | p
-
+      ^.<| Multiplying factor .<| Prefix .<| Symbol ^.<| Multiplying factor .<| Prefix .<| Symbol
+      >.>| 1 000 000 000 000 = stem:[10^(12)] | tera | stem:["T"] >.>| 0.1 = stem:[10^(-1)] | deci | d
+      >.>| 1 000 000 000 = stem:[10^(9)] | giga | G >.>| 0.01 = stem:[10^(-2)] | centi | c
+      >.>| 1 000 000 = stem:[10^(6)] | mega | M >.>| 0.001 = stem:[10^(-3)] | milli | stem:["m"]
+      >.>| 1 000 = stem:[10^(3)] | kilo | k >.>| 0.000 001 = stem:[10^(-6)] | micro | stem:["µ"]
+      >.<| 100  = stem:[10^(2)] | hecto | stem:["h"] >.>| 0.000 000 001 = stem:[10^(-9)] | nano | n
+      >| 10 = stem:[10^(1)] | deca | da >.>| 0.000 000 000 001 = stem:[10^(-12)] | pico | p
       |===
-       +
+
       . the units listed below are used in the system, without excluding others which might be added later.
   - type: decides
     date_effective: 1960-10-20

@@ -174,8 +174,8 @@ resolutions:
     message: |-
       *recalling*
 
-       that in 1983 the 17th Conférence Générale des Poids et Mesures adopted a new definition of the metre,
-       that in the same year the Conférence Générale invited the Comité International des Poids et Mesures
+      that in 1983 the 17th Conférence Générale des Poids et Mesures adopted a new definition of the metre,
+      that in the same year the Conférence Générale invited the Comité International des Poids et Mesures
 
       * to draw up instructions for the practical realization of the metre,
       * to choose radiations which can be recommended as standards of wavelength for the interferometric measurement of length and draw up instructions for their use,
@@ -403,15 +403,11 @@ resolutions:
     date_effective: 1995-10-13
     message: |-
       *decides* that the fixed part of the annual dotation of the Bureau International des Poids et Mesures will be increased in a way such that the sum of the fixed part and the complementary part (defined by Article 6; (1921) of the Rules annexed to the Convention du Mètre 1875) shall, for those States members of the Convention du Mètre at the time of the 20th Conférence Générale des Poids et Mesures, be
-
-      |===
-      | 27 144 000 gold francs in 1997
-
-      | 28 365 000 gold francs in 1998
-      | 29 642 000 gold francs in 1999
-      | 30 976 000 gold francs in 2000.
-
-      |===
+      +
+      27 144 000 gold francs in 1997 +
+      28 365 000 gold francs in 1998 +
+      29 642 000 gold francs in 1999 +
+      30 976 000 gold francs in 2000.
 - dates:
   - 1995-10-13
   title: Future relations with the Organisation Internationale de Métrologie Légale

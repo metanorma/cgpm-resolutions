@@ -188,9 +188,11 @@ resolutions:
     message: |-
       considering
 
-        cgpm-resolution:en/20/11[Resolution 11] of the 20th General Conference, which recommended to the International Committee that it study the long-term needs relating to metrology,
-        cgpm-resolution:en/21/1[Resolution 1] of the 21st General Conference, which noted the Report to the General Conference on long-term needs relating to metrology,
-       the new Report adopted by the International Committee in October 2002,
+      cgpm-resolution:en/20/11[Resolution 11] of the 20th General Conference, which recommended to the International Committee that it study the long-term needs relating to metrology,
+      +
+      cgpm-resolution:en/21/1[Resolution 1] of the 21st General Conference, which noted the Report to the General Conference on long-term needs relating to metrology,
+      +
+      the new Report adopted by the International Committee in October 2002,
   - type: noting
     date_effective: 2003-10-17
     message: notes the content of the new Report,
@@ -656,10 +658,12 @@ resolutions:
     date_effective: 2003-10-17
     message: |-
       invites national metrology institutes (NMIs)
-
-       to arrange, at their expense, a continuing series of short-term placements or secondments of their staff to the BIPM to work on projects of mutual interest integrated into the BIPM programme,
-       to accept staff of the BIPM to work in their institutes on programmes of mutual interest,
-       to sponsor a permanent programme of Fellowships at the BIPM for suitable staff with a view to establishing four such Fellowships at the BIPM by the end of 2004 on projects of mutual interest to the sponsoring NMI and the BIPM,
+      +
+      to arrange, at their expense, a continuing series of short-term placements or secondments of their staff to the BIPM to work on projects of mutual interest integrated into the BIPM programme,
+      +
+      to accept staff of the BIPM to work in their institutes on programmes of mutual interest,
+      +
+      to sponsor a permanent programme of Fellowships at the BIPM for suitable staff with a view to establishing four such Fellowships at the BIPM by the end of 2004 on projects of mutual interest to the sponsoring NMI and the BIPM,
   - type: invites / further invites
     date_effective: 2003-10-17
     message: further invites individual governments, national metrology institutes
@@ -669,28 +673,23 @@ resolutions:
     date_effective: 2003-10-17
     message: |-
       decides that the fixed part of the annual dotation of the BIPM will be increased in such a way that the fixed part and the complementary part (defined by Article 6, 1921) of the Rules annexed to the Metre Convention (1875) shall, for those States that are members of the Metre Convention at the time of the 22nd General Conference, be
+      +
+      9 587 000 euros in 2005 +
+      9 779 000 euros in 2006 +
+      9 974 000 euros in 2007 +
+      10 174 000 euros in 2008,
 
-      |===
-      | >| 9 587 000 | euros in 2005
 
-      | >| 9 779 000 | euros in 2006
-      | >| 9 974 000 | euros in 2007
-      | >| 10 174 000 | euros in 2008,
-
-      |===
   - type: decides
     date_effective: 2003-10-17
     message: |-
       further decides to support the increasing workload of the BIPM by an additional discretionary contribution of
+      +
+      130 000 euros in 2005 +
+      132 000 euros in 2006 +
+      136 000 euros in 2007 +
+      138 000 euros in 2008,
 
-      |===
-      | | 130 000 | euros in 2005
-
-      | | 132 000 | euros in 2006
-      | | 136 000 | euros in 2007
-      | | 138 000 | euros in 2008,
-
-      |===
   - type: requests
     date_effective: 2003-10-17
     message: requests Member States to declare to the BIPM, at the latest by 1 April

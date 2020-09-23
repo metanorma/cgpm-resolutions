@@ -169,8 +169,8 @@ resolutions:
     message: |-
       recalls that
 
-       the definition of the second as it results from the decisions of the 13th Conférence Générale des Poids et Mesures implies that the caesium atom used as reference is at rest and unperturbed,
-       this implies in particular that, in its practical realization, measurements must be corrected for the velocity of the caesium atoms with respect to the clock reference frame, for magnetic and electric interactions, spin exchange and other possible perturbations,
+      the definition of the second as it results from the decisions of the 13th Conférence Générale des Poids et Mesures implies that the caesium atom used as reference is at rest and unperturbed,
+      this implies in particular that, in its practical realization, measurements must be corrected for the velocity of the caesium atoms with respect to the clock reference frame, for magnetic and electric interactions, spin exchange and other possible perturbations,
 
       and, in order to implement the necessary corrections,
   actions:
@@ -325,7 +325,7 @@ resolutions:
     date_effective: 1987-10-15
     message: |-
       decides that the fixed part of the annual funding of the BIPM will be increased in such a way that the sum of the fixed part and the supplementary part (defined in Article 6 (1921) of the Rules Appended to the Convention du Mètre of 1875) be, for the States subscribing to the Convention at the time of the 18th Conférence Générale des Poids et Mesures, raised to
-
+      +
       17 960 000 francs-or in 1989 +
       18 858 000 francs-or in 1990 +
       19 801 000 francs-or in 1991 +

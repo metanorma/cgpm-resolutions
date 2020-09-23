@@ -213,7 +213,7 @@ resolutions:
     date_effective: 2007-11-16
     message: |-
       *decides* that the fixed part of the annual dotation of the BIPM will be increased in such a way that the fixed part and the complementary part (defined in Article 6, 1921, of the Rules annexed to the Metre Convention (1875)) shall, for those States that are parties to the Metre Convention at the time of the 23rd General Conference be:
-
+      +
       10 540 000 euros in 2009 +
       10 751 000 euros in 2010 +
       10 966 000 euros in 2011 +
@@ -222,7 +222,7 @@ resolutions:
     date_effective: 2007-11-16
     message: |-
       *and further decides* to support the increasing workload of the BIPM by an additional discretionary contribution of:
-
+      +
       407 000 euros in 2009 +
       415 000 euros in 2010 +
       423 000 euros in 2011 +
@@ -265,14 +265,14 @@ resolutions:
       achieved through a joint activity to address traceability issues,
   - type: noting
     date_effective: 2007-11-16
-    message: "noting and welcoming\n\n the initiatives taken by the International
+    message: "noting and welcoming\n\nthe initiatives taken by the International
       Committee to respond to Resolution 6 of the 22nd General Conference on the importance
-      of the CIPM Mutual Recognition Arrangement, \n the signature by the International
+      of the CIPM Mutual Recognition Arrangement, \n\nthe signature by the International
       Bureau of Weights and Measures (BIPM) of a common statement which promotes the
       use of the CIPM Mutual Recognition Arrangement, the Mutual Acceptance Arrangement
       of the OIML and the ILAC Arrangement, which was drawn up by these three bodies
       and which was transmitted to intergovernmental organizations, international
-      bodies, and to bodies whose work is influenced by these Arrangements, \n the
+      bodies, and to bodies whose work is influenced by these Arrangements, \n\nthe
       positive responses received from a number of bodies to whom the joint statement
       was sent,"
   - type: noting
@@ -388,21 +388,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 2007-11-16
-    message: "considering\n\n  that, in 1999, at its 21st meeting, the General Conference
+    message: "considering\n\nthat, in 1999, at its 21st meeting, the General Conference
       created the category of Associate of the General Conference for States which
       did not then accede to the Metre Convention and for Economies to facilitate
       the participation in the CIPM Mutual Recognition Arrangement (CIPM MRA) by States
       that might have an initial difficulty in allocating sufficient funds to meet
-      the cost of acceding to the Metre Convention, \n the increasing number of States
+      the cost of acceding to the Metre Convention, \n\nthe increasing number of States
       in development and States in transition that have become Associates of the General
-      Conference, \n that it is in the interest of all States and Economies to establish
+      Conference, \n\nthat it is in the interest of all States and Economies to establish
       links through their coordinating National Metrology Institute (NMI) to the world's
       measurement system organized and coordinated under the auspices of the Metre
-      Convention, \n that there remain however a large number of States that find
+      Convention, \n\nthat there remain however a large number of States that find
       difficulties in accomplishing the formalities and paying the subscription required
-      to become an Associate, \n that it is in the interest of all States and Economies
+      to become an Associate, \n\nthat it is in the interest of all States and Economies
       to reduce, and to avoid, technical barriers to trade by becoming signatories
-      to the CIPM MRA, \n that the Member States wish to create a simple, all inclusive,
+      to the CIPM MRA, \n\nthat the Member States wish to create a simple, all inclusive,
       and cost-effective way to establish such links and to encourage these States
       to accede to the Metre Convention or become Associates of the General Conference,"
   - type: recalling / further recalling
@@ -483,24 +483,24 @@ resolutions:
       to pay their outstanding arrears,
   - type: decides
     date_effective: 2007-11-16
-    message: "decides that:\n\n when a Member State has not paid its contributions
+    message: "decides that:\n\nwhen a Member State has not paid its contributions
       for six years, the International Committee for Weights and Measures (CIPM) shall
       send to the defaulting Member State a formal notification inviting it to fulfil
       its financial obligations and reminding it of the procedure governing the recovery
       of arrears and exclusion. Such a notification shall be sent no later than nine
       months before the next meeting of the General Conference on Weights and Measures
-      (CGPM), \n the CIPM may enter into a rescheduling agreement with that defaulting
-      Member State for the payment of its arrears, \n if, further to the above-mentioned
+      (CGPM), \n\nthe CIPM may enter into a rescheduling agreement with that defaulting
+      Member State for the payment of its arrears, \n\nif, further to the above-mentioned
       notification, a Member State persists in its failure to fulfil its financial
       obligations or does not perform its obligations under an agreement with the
       CIPM, the latter shall recommend to the CGPM to take a decision with regard
       to the exclusion of that State in accordance with Article 6 al. 8 of the Rules
-      annexed to the Metre Convention, \n the exclusion shall be notified by the CGPM
+      annexed to the Metre Convention, \n\nthe exclusion shall be notified by the CGPM
       to that Member State through the French Ministry of Foreign Affairs, which shall
-      accordingly inform all Member States, \n an excluded Member State may only again
+      accordingly inform all Member States, \n\nan excluded Member State may only again
       accede to the Metre Convention if its remaining arrears have been paid. Pursuant
       to Article 11 of the Metre Convention, that Member State shall pay an entrance
-      contribution equal to its first annual contribution, \n a Member State which
+      contribution equal to its first annual contribution, \n\na Member State which
       withdraws may only again accede to the Metre Convention if its remaining arrears
       have been paid. Pursuant to Article 11 of the Metre Convention, that Member
       State shall pay an entrance contribution equal to its first annual contribution."
@@ -518,11 +518,11 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 2007-11-16
-    message: "considering that:\n\n there have been rapid and important improvements
-      in the performance of optical frequency standards, \n femtosecond comb techniques
+    message: "considering that:\n\nthere have been rapid and important improvements
+      in the performance of optical frequency standards, \n\nfemtosecond comb techniques
       are now used routinely for relating optical and microwave radiations at a single
-      location, \n National Metrology Institutes (NMIs) are working on comparison
-      techniques for optical frequency standards over short distances, \n remote comparison
+      location, \n\nNational Metrology Institutes (NMIs) are working on comparison
+      techniques for optical frequency standards over short distances, \n\nremote comparison
       techniques need to be developed at an international level so that optical frequency
       standards can be compared,"
   actions:
@@ -542,8 +542,8 @@ resolutions:
       and Measures (BIPM) to raise the issue of how to compare optical frequency standards,
   - type: recommends
     date_effective: 2007-11-16
-    message: "recommends that:\n\n NMIs commit resources to the development of optical
-      frequency standards and their comparison, \n the BIPM works toward the coordination
+    message: "recommends that:\n\nNMIs commit resources to the development of optical
+      frequency standards and their comparison, \n\nthe BIPM works toward the coordination
       of an international project with the participation of NMIs, oriented to the
       study of the techniques which could serve to compare optical frequency standards."
 - dates:
@@ -575,20 +575,20 @@ resolutions:
     date_effective: 2007-11-16
     message: "notes and welcomes the decision by the International Committee for Weights
       and Measures in October 2005, on the advice of the Consultative Committee for
-      Thermometry, that\n\n the definition of the kelvin refers to water of a specified
-      isotopic composition, \n this composition be: \n\n0.000 155 76 mole of stem:[\"\"_(2)
-      \"H\"] per mole of stem:[\"\"_(1) \"H\"], +\n0.000 379 9 mole of stem:[\"\"_(17)
-      \"O\"] per mole of stem:[\"\"_(16) \"O\"], and +\n0.002 005 2 mole of stem:[\"\"_(18)
-      \"O\"] per mole of stem:[\"\"_(16) \"O\"], \n\nwhich is the composition of the
+      Thermometry, that\n\nthe definition of the kelvin refers to water of a specified
+      isotopic composition, \n\nthis composition be: \n\n0.000 155 76 mole of stem:[\"\"^(2)
+      \"H\"] per mole of stem:[\"\"^(1) \"H\"], +\n0.000 379 9 mole of stem:[\"\"^(17)
+      \"O\"] per mole of stem:[\"\"^(16) \"O\"], and +\n0.002 005 2 mole of stem:[\"\"^(18)
+      \"O\"] per mole of stem:[\"\"^(16) \"O\"], \n\nwhich is the composition of the
       International Atomic Energy Agency reference material Vienna Standard Mean Ocean
       Water (VSMOW), as recommended by the International Union of Pure and Applied
-      Chemistry in \"Atomic Weights of the Elements: Review 2000\",\n\n this composition
+      Chemistry in \"Atomic Weights of the Elements: Review 2000\",\n\nthis composition
       be stated in a note attached to the definition of the kelvin in the SI Brochure
       as follows: \n\n\"This definition refers to water having the isotopic composition
-      defined by the following amount-of-substance ratios: 0.000 155 76 mole of stem:[\"\"_(2)
-      \"H\"] per mole of stem:[\"\"_(1) \"H\"], 0.000 379 9 mole of stem:[\"\"_(17)
-      \"O\"] per mole of stem:[\"\"_(16) \"O\"] and 0.002 005 2 mole of stem:[\"\"_(18)
-      \"O\"] per mole of stem:[\"\"_(16) \"O\"]\"."
+      defined by the following amount-of-substance ratios: 0.000 155 76 mole of stem:[\"\"^(2)
+      \"H\"] per mole of stem:[\"\"^(1) \"H\"], 0.000 379 9 mole of stem:[\"\"^(17)
+      \"O\"] per mole of stem:[\"\"^(16) \"O\"] and 0.002 005 2 mole of stem:[\"\"^(18)
+      \"O\"] per mole of stem:[\"\"^(16) \"O\"]\"."
   actions: []
 - dates:
   - 2007-11-16

@@ -256,12 +256,9 @@ resolutions:
       decides to add to the list of prefixes for the formation of names of multiples and submultiples of units, adopted by the 11th CGPM, cgpm-resolution:en/11/12#para3[Resolution 12], paragraph 3, the following two new prefixes:
 
       |===
-      .| Multiplying factor .| Prefix .| Symbol
-
-      3+|
+      | Multiplying factor | Prefix | Symbol
       .>| stem:[10^(-15)] .>| femto .>| f
       .>| stem:[10^(-18)] .>| atto .>| a
-
       |===
 - dates:
   - 1964-10-13

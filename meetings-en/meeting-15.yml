@@ -273,11 +273,8 @@ resolutions:
 
       |===
       .<| Multiplying factor .<| Prefix .<| Symbol
-
-      3+|
       .<| stem:[10^(15)] .<| peta .<| P
       .<| stem:[10^(18)] .<| exa .<| E
-
       |===
 - dates:
   - 1975-06-02
@@ -300,11 +297,8 @@ resolutions:
     date_effective: 1975-06-02
     message: |-
       decides that the fixed part of the annual budget of the Bureau International des Poids et Mesures will be increased so that both the fixed part and the complementary part (as defined in Art. 6 (1921) of the Rules appended to the Metre Convention) be equal, for the States that are members of the Convention at the time of the 15th General Conference, to:
-
+      +
       5 310 000 gold francs in 1977 +
-
       5 950 000 gold francs in 1978 +
-
       6 660 000 gold francs in 1979 +
-
       7 460 000 gold francs in 1980

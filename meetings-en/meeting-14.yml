@@ -154,11 +154,11 @@ resolutions:
     message: "ayant constaté que ce programme est conçu de façon que le Bureau international
       des poids et mesures accomplisse ses missions en liaison avec les Comités consultatifs
       et sous l'autorité du Comité international des poids et mesures, missions dont
-      les plus importantes sont :\n\n la coordination des programmes de recherche
-      métrologique ayant un intérêt international ;\n la certification d'étalons servant
-      de points de départ aux laboratoires qui le demandent ;\n l'organisation de
+      les plus importantes sont:\n\nla coordination des programmes de recherche
+      métrologique ayant un intérêt international;\n\nla certification d'étalons servant
+      de points de départ aux laboratoires qui le demandent;\n\nl'organisation de
       mesures comparatives en vue de l'uniformité mondiale des résultats de mesure
-      et en vue de la détection des erreurs ;\n l'élévation du niveau scientifique
+      et en vue de la détection des erreurs;\n\nl'élévation du niveau scientifique
       du personnel à un degré suffisant pour que le Bureau international des poids
       et mesures participe aux recherches métrologiques, assimile et mette en \x9Cuvre
       les nouvelles techniques, et fournisse une aide compétente aux pays de plus
@@ -202,18 +202,12 @@ resolutions:
     date_effective: 1971-10-08
     message: |-
       décide que la partie fixe de la dotation annuelle sera augmentée de façon que l'ensemble de la partie fixe et de la partie complémentaire [définies à l'Art. 6 (1921) du Règlement annexé à la Convention du Mètre] soit, pour les États parties à la Convention à l'époque de la Treizième Conférence générale :
+      +
+      3 340 000 francs-or en 1973 +
+      3 740 000 francs-or en 1974 +
+      4 180 000 francs-or en 1975 +
+      4 670 000 francs-or en 1976
 
-      [width=100%]
-      |===
-      | | |
-
-      | a| 3 340 000 francs-or en 1973 +
-       3 740 000 francs-or en 1974 +
-       4 180 000 francs-or en 1975 +
-       4 670 000 francs-or en 1976
-      |
-
-      |===
   - type: appoints
     date_effective: 1971-10-08
     message: autorise que, sous réserve de la condition ci-après, un pourcentage de
