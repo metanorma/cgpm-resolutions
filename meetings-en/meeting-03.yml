@@ -14,12 +14,12 @@ resolutions:
   approvals:
   - type: affirmative
     degree: unanimous
-    message: The Conference
+    message: The Conference declares
   considerations: []
   actions:
   - type: decides
     date_effective: 1901-10-22
-    message: 'declares The unit of volume, for high accuracy determinations, is the
+    message: 'The unit of volume, for high accuracy determinations, is the
       volume occupied by a mass of 1 kilogram of pure water, at its maximum density
       and at standard atmospheric pressure: this volume is called "litre".'
   - type: decides
