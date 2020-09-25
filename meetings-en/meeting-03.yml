@@ -24,7 +24,7 @@ resolutions:
       and at standard atmospheric pressure: this volume is called "litre".'
   - type: decides
     date_effective: 1901-10-22
-    message: declares . . .
+    message: . . .
 - dates:
   - 1901-10-22
   title: Declaration on the unit of mass and on the definition of weight; conventional
@@ -53,18 +53,18 @@ resolutions:
       current practice still exists on the meaning of the word _weight_, used sometimes
       for _mass_, sometimes for _mechanical force_;"
   actions:
-  - type: decides
+  - type: *The Conference declares*
     date_effective: 1901-10-22
-    message: The Conference declares The kilogram is the unit of mass; it is equal
+    message: The kilogram is the unit of mass; it is equal
       to the mass of the international prototype of the kilogram;
   - type: decides
     date_effective: 1901-10-22
-    message: 'The Conference declares The word "weight" denotes a quantity of the
+    message: 'The word "weight" denotes a quantity of the
       same nature as a "force": the weight of a body is the product of its mass and
       the acceleration due to gravity; in particular, the standard weight of a body
       is the product of its mass and the standard acceleration due to gravity;'
   - type: decides
     date_effective: 1901-10-22
-    message: The Conference declares The value adopted in the International Service
+    message: The value adopted in the International Service
       of Weights and Measures for the standard acceleration due to gravity is stem:[980.665
       "cm"/"s"^(2)], value already stated in the laws of some countries.
