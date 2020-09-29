@@ -124,7 +124,7 @@ resolutions:
 
       * le Système international d'unités, le SI, sera le système d'unités selon lequel :
 
-      ** la fréquence de la transition hyperfine dans l'état fondamental de l'atome de césium stem:[133  sf Delta  nu (""_(133) "Cs")_("hfs")] est égale à exactement 9 192 631 770 hertz,
+      ** la fréquence de la transition hyperfine dans l'état fondamental de l'atome de césium stem:[133  sf Delta  nu (""^(133) "Cs")_("hfs")] est égale à exactement 9 192 631 770 hertz,
       ** la vitesse de la lumière dans le vide stem:[c] est égale à exactement 299 792 458 mètres par seconde,
       ** la constante de Planck stem:[h] est égale à exactement 6,626 06X ×stem:[10^(-34)] joule seconde,
       ** la charge élémentaire stem:[e] est égale à exactement 1,602 17X ×stem:[10^(-19)] coulomb,

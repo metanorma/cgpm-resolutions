@@ -412,8 +412,8 @@ resolutions:
       . the units listed below are used in the system, without excluding others which might be added later.
   - type: decides
     date_effective: 1960-10-20
-    message: "*_Supplementary units_*\n\n[width=100%]\n|===\n| plane angle | radian
-      | stem:[\"rad\"]\n\n| solid angle | steradian | stem:[\"sr\"]\n\n|===\n[[derived]]\n\n[width=100%]\n|===\n.>|
+    message: "\n\n.Supplementary units\n[width=100%]\n|===\n\n| plane angle | radian
+      | stem:[\"rad\"]\n\n| solid angle | steradian | stem:[\"sr\"]\n\n|===\n\n.Derived units\n[width=100%]\n|===\n\n.>|
       area .>| square metre .>| stem:[\"m\"^(2)] .>|  \n\n.>| volume .>| cubic metre
       .>| stem:[\"m\"^(3)] .>|  \n.<| frequency .<| hertz .<| stem:[\"Hz\"] .<| stem:[1/\"s\"]\n.>|
       mass density (density) .>| kilogram per cubic metre .>| stem:[\"kg\"/\"m\"^(3)]

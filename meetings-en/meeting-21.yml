@@ -434,15 +434,15 @@ resolutions:
   - type: considering
     date_effective: 1999-10-15
     message: considering that considerable work has already been accomplished towards
-      the development of a temperature scale for the range from stem:[0.65 "K"] down
-      to stem:[1 "mK"] based on the melting pressure of stem:[""_(3) "He"],
+      the development of a temperature scale for the range from stem:[0.65 " K"] down
+      to stem:[1 " mK"] based on the melting pressure of stem:[""^(3) "He"],
   actions:
   - type: invites / further invites
     date_effective: 1999-10-15
-    message: '*invites* the International Committee to prepare a stem:[""_(3) "He"]
+    message: '*invites* the International Committee to prepare a stem:[""^(3) "He"]
       melting pressure equation as a function of thermodynamic temperature to serve
       as the basis for an extension of the ITS-90 below its present lower limit of
-      stem:[0.65 "K"].'
+      stem:[0.65 " K"].'
 - dates:
   - 1999-10-15
   title: Metrology in chemistry
@@ -628,7 +628,7 @@ resolutions:
 
       henceforth the currency to be used in voting the annual dotation for the BIPM will be the euro,
       the fixed part of the annual dotation of the Bureau International des Poids et Mesures will be increased in a way such that the sum of the fixed part and the complementary part (defined by Article 6, 1921) of the Rules annexed to the Metre Convention (1875) shall, for those States members of the Metre Convention at the time of the 21st General Conference, be
-      +
+      
       8 697 000 euros in 2001 (31 440 039 gold francs) +
       8 828 000 euros in 2002 (31 913 610 gold francs) +
       8 960 000 euros in 2003 (32 390 796 gold francs) +

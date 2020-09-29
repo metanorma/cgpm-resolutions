@@ -121,7 +121,7 @@ resolutions:
 
       * the International System of Units, the SI, will be the system of units in which:
 
-      ** the ground state hyperfine splitting frequency of the caesium 133 atom stem:[ sf Delta  nu (""_(133) "Cs")_("hfs")] is exactly 9 192 631 770 hertz,
+      ** the ground state hyperfine splitting frequency of the caesium 133 atom stem:[ sf Delta  nu (""^(133) "Cs")_("hfs")] is exactly 9 192 631 770 hertz,
       ** the speed of light in vacuum stem:[c] is exactly 299 792 458 metre per second,
       ** the Planck constant stem:[h] is exactly 6.626 06X ×stem:[10^(-34)] joule second,
       ** the elementary charge stem:[e] is exactly 1.602 17X ×stem:[10^(-19)] coulomb,
@@ -179,10 +179,10 @@ resolutions:
     message: |-
       *further notes* that on the same date
 
-      * the mass of the international prototype of the kilogram stem:[m(K)] will be stem:[1 "kg"] but with a relative uncertainty equal to that of the recommended value of stem:[h] just before redefinition and that subsequently its value will be determined experimentally,
+      * the mass of the international prototype of the kilogram stem:[m(K)] will be stem:[1 " kg"] but with a relative uncertainty equal to that of the recommended value of stem:[h] just before redefinition and that subsequently its value will be determined experimentally,
       * that the magnetic constant (permeability of vacuum) stem:[µ_(0)] will be stem:[4 pi  * 10^(-7) "H" * "m"^(-1)] but with a relative uncertainty equal to that of the recommended value of the fine-structure constant stem:[ alpha ] and that subsequently its value will be determined experimentally,
       * that the thermodynamic temperature of the triple point of water stem:[T_(TPW)] will be stem:[273.16 "K"] but with a relative uncertainty equal to that of the recommended value of stem:[k] just before redefinition and that subsequently its value will be determined experimentally,
-      * that the molar mass of carbon stem:[12 M(""_(12) "C")] will be stem:[0.012 "kg" * "mol"^(-1)] but with a relative uncertainty equal to that of the recommended value of stem:[N_("A")h] just before redefinition and that subsequently its value will be determined experimentally.
+      * that the molar mass of carbon stem:[12 M(""^(12) "C")] will be stem:[0.012 " kg" * "mol"^(-1)] but with a relative uncertainty equal to that of the recommended value of stem:[N_("A")h] just before redefinition and that subsequently its value will be determined experimentally.
        +
 
       The General Conference on Weights and Measures
@@ -524,8 +524,6 @@ resolutions:
       *decides* for States Parties in arrears for more than 6 years to grant a period of 12 months from the date of adoption of the present Resolution to conclude with the International Committee for Weights and Measures (CIPM) a rescheduling agreement,
        that if a rescheduling agreement is not concluded within 12 months, those States will automatically be excluded, and the CIPM will inform in writing the French Ministry of Foreign and European Affairs for notification to this effect to those States and to all States Parties to the Metre Convention on behalf of the CGPM, and
        that the calculation of contributions is re-established in accordance with the applicable provisions in the most immediate calendar year after exclusion.
-       +
-       +
   appendices:
   - identifier: 1
     message: |-
@@ -569,8 +567,6 @@ resolutions:
        the annual contribution of the defaulting State shall no longer be distributed among the other States Parties to the Metre Convention starting from the year following the entry into force of the rescheduling agreement,
        the advantages and prerogatives conferred by accession to the Metre Convention shall be suspended in the case that the defaulting State breaches the rescheduling agreement and its contribution be distributed among the other States Parties to the Metre Convention by applying the provisions of Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
        if the State breaches the rescheduling agreement for more than 12 months, it will be automatically excluded.
-       +
-       +
   appendices:
   - identifier: 1
     message: |-
