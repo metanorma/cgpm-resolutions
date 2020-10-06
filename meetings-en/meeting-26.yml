@@ -18,18 +18,18 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 2018-11-16
-    message: considering the essential requirement for an International System of
+    message: the essential requirement for an International System of
       Units (SI) that is uniform and accessible world-wide for international trade,
       high-technology manufacturing, human health and safety, protection of the environment,
       global climate studies and the basic science that underpins all these,
   - type: considering
     date_effective: 2018-11-16
-    message: considering that the SI units must be stable in the long term, internally
+    message: that the SI units must be stable in the long term, internally
       self consistent and practically realizable being based on the present theoretical
       description of nature at the highest level,
   - type: considering
     date_effective: 2018-11-16
-    message: considering that a revision of the SI to meet these requirements was
+    message: that a revision of the SI to meet these requirements was
       proposed in Resolution 1 adopted unanimously by the CGPM at its 24th meeting
       (2011) that laid out in detail a new way of defining the SI based on a set of
       seven defining constants, drawn from the fundamental constants of physics and
@@ -37,7 +37,7 @@ resolutions:
       are deduced,
   - type: considering
     date_effective: 2018-11-16
-    message: considering that the conditions set by the CGPM at its 24th meeting (2011),
+    message: that the conditions set by the CGPM at its 24th meeting (2011),
       confirmed at its 25th meeting (2014), before such a revised SI could be adopted
       have now been met,
   - type: noting
@@ -50,7 +50,7 @@ resolutions:
   - type: decides
     date_effective: 2018-11-16
     message: |-
-      *decides* that, effective from 20 May 2019, the International System of Units, the SI, is the system of units in which:
+      that, effective from 20 May 2019, the International System of Units, the SI, is the system of units in which:
 
       * the unperturbed ground state hyperfine transition frequency of the caesium 133 atom stem:[ sf Delta  nu _(Cs)] is stem:[9 192 631 770 " Hz"],
       * the speed of light in vacuum stem:[c] is stem:[299 792 458 " m/s"],

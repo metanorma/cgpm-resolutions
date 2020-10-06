@@ -518,32 +518,44 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 2007-11-16
-    message: "considering that:\n\nthere have been rapid and important improvements
-      in the performance of optical frequency standards, \n\nfemtosecond comb techniques
+    message: "that:\n\nthere have been rapid and important improvements
+      in the performance of optical frequency standards,
+  - type: considering
+    date_effective: 2007-11-16
+    message: femtosecond comb techniques
       are now used routinely for relating optical and microwave radiations at a single
-      location, \n\nNational Metrology Institutes (NMIs) are working on comparison
-      techniques for optical frequency standards over short distances, \n\nremote comparison
+      location,
+  - type: considering
+    date_effective: 2007-11-16
+    message: National Metrology Institutes (NMIs) are working on comparison
+      techniques for optical frequency standards over short distances, 
+  - type: considering
+    date_effective: 2007-11-16
+    message: remote comparison
       techniques need to be developed at an international level so that optical frequency
       standards can be compared,"
   actions:
   - type: welcomes
     date_effective: 2007-11-16
-    message: 'welcomes the activities of the Joint Working Group of the Consultative
+    message: 'the activities of the Joint Working Group of the Consultative
       Committee for Length and the Consultative Committee for Time and Frequency to
       review the frequencies of optically-based representations of the second, '
   - type: welcomes
     date_effective: 2007-11-16
-    message: 'welcomes the additions to the _mise en pratique_ of the definition of
+    message: 'the additions to the _mise en pratique_ of the definition of
       the metre and to the list of recommended radiations made by the International
       Committee in 2002, 2003, 2005, 2006, and 2007, '
   - type: welcomes
     date_effective: 2007-11-16
-    message: welcomes the initiative taken by the International Bureau of Weights
+    message: the initiative taken by the International Bureau of Weights
       and Measures (BIPM) to raise the issue of how to compare optical frequency standards,
   - type: recommends
     date_effective: 2007-11-16
-    message: "recommends that:\n\nNMIs commit resources to the development of optical
-      frequency standards and their comparison, \n\nthe BIPM works toward the coordination
+    message: "that:\n\nNMIs commit resources to the development of optical
+      frequency standards and their comparison,
+  - type: recommends
+    date_effective: 2007-11-16
+    message: the BIPM works toward the coordination
       of an international project with the participation of NMIs, oriented to the
       study of the techniques which could serve to compare optical frequency standards."
 - dates:
@@ -559,21 +571,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 2007-11-16
-    message: 'considering that the kelvin, unit of thermodynamic temperature, is defined
+    message: 'that the kelvin, unit of thermodynamic temperature, is defined
       as the fraction 1/273.16 of the thermodynamic temperature of the triple point
       of water, '
   - type: considering
     date_effective: 2007-11-16
-    message: 'considering that the temperature of the triple point depends on the
+    message: 'that the temperature of the triple point depends on the
       relative amount of isotopes of hydrogen and oxygen present in the sample of
       water used, '
   - type: considering
     date_effective: 2007-11-16
-    message: considering that this effect is now one of the major sources of the observed
+    message: that this effect is now one of the major sources of the observed
       variability between different realizations of the water triple point,
   - type: noting
     date_effective: 2007-11-16
-    message: "notes and welcomes the decision by the International Committee for Weights
+    message: "*notes and welcomes* the decision by the International Committee for Weights
       and Measures in October 2005, on the advice of the Consultative Committee for
       Thermometry, that\n\nthe definition of the kelvin refers to water of a specified
       isotopic composition, \n\nthis composition be: \n\n0.000 155 76 mole of stem:[\"\"^(2)
@@ -651,71 +663,71 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 2007-11-16
-    message: 'considering that, for many years, National Metrology Institutes (NMIs)
+    message: 'that, for many years, National Metrology Institutes (NMIs)
       as well as the International Bureau of Weights and Measures (BIPM) have made
       considerable efforts to advance and improve the International System of Units
       (SI) by extending the frontiers of metrology so that the SI base units could
       be defined in terms of the invariants of nature - the fundamental physical constants, '
   - type: considering
     date_effective: 2007-11-16
-    message: 'considering that, of the seven base units of the SI, only the kilogram
+    message: 'that, of the seven base units of the SI, only the kilogram
       is still defined in terms of a material artefact - the international prototype
       of the kilogram (2nd CGPM, 1889, 3rd CGPM, 1901) and that the definitions of
       the ampere, mole and candela depend on the kilogram, '
   - type: considering
     date_effective: 2007-11-16
-    message: considering Resolution 7 of the 21st General Conference (1999) which
+    message: Resolution 7 of the 21st General Conference (1999) which
       recommended that "national laboratories continue their efforts to refine experiments
       that link the unit of mass to fundamental or atomic constants with a view to
       a future redefinition of the kilogram",
   - type: considering
     date_effective: 2007-11-16
-    message: 'considering the many advances, made in recent years, in experiments
+    message: 'the many advances, made in recent years, in experiments
       which relate the mass of the international prototype to the Planck constant
       stem:[h] or the Avogadro constant stem:[N_("A")], '
   - type: considering
     date_effective: 2007-11-16
-    message: 'considering initiatives to determine the value of a number of relevant
+    message: 'initiatives to determine the value of a number of relevant
       fundamental constants, including work to redetermine the Boltzmann constant
       stem:[k_(B)], '
   - type: considering
     date_effective: 2007-11-16
-    message: 'considering that as a result of recent advances, there are significant
+    message: 'that as a result of recent advances, there are significant
       implications for, and potential benefits from, redefinitions of the kilogram,
       the ampere, the kelvin and the mole, '
   - type: considering
     date_effective: 2007-11-16
-    message: considering Recommendation 1 of the International Committee (C1-2005)
+    message: Recommendation 1 of the International Committee (C1-2005)
       at its meeting in October 2005, and various Recommendations of Consultative
       Committees on the subject of a redefinition of one or more of the base units
       of the SI,
   - type: noting
     date_effective: 2007-11-16
-    message: 'noting the work of the International Committee and the Consultative
+    message: 'the work of the International Committee and the Consultative
       Committees, '
   - type: noting
     date_effective: 2007-11-16
-    message: 'noting the need to monitor the results of relevant experiments, '
+    message: 'the need to monitor the results of relevant experiments, '
   - type: noting
     date_effective: 2007-11-16
-    message: noting the importance of soliciting comments and contributions from the
+    message: the importance of soliciting comments and contributions from the
       wider scientific and user communities, and
   - type: noting
     date_effective: 2007-11-16
-    message: noting the decision of the International Committee in 2005 to approve,
+    message: the decision of the International Committee in 2005 to approve,
       in principle, the preparation of new definitions of the kilogram, ampere, kelvin
       and the possibility of redefining the mole,
   actions:
   - type: recommends
     date_effective: 2007-11-16
-    message: 'recommends that National Metrology Institutes and the BIPM pursue the
+    message: 'that National Metrology Institutes and the BIPM pursue the
       relevant experiments so that the International Committee can come to a view
       on whether it may be possible to redefine the kilogram, the ampere, the kelvin,
       and the mole using fixed values of the fundamental constants at the time of
       the 24th General Conference (2011), '
   - type: recommends
     date_effective: 2007-11-16
-    message: 'recommends that National Metrology Institutes and the BIPM should, together
+    message: 'that National Metrology Institutes and the BIPM should, together
       with the International Committee, its Consultative Committees, and appropriate
       working groups, work on practical ways of realizing any new definitions based
       on fixed values of the fundamental constants, prepare a _mise en pratique_ for
@@ -723,13 +735,15 @@ resolutions:
       to users, '
   - type: recommends
     date_effective: 2007-11-16
-    message: recommends that National Metrology Institutes and the BIPM initiate awareness
+    message: |-
+    that National Metrology Institutes and the BIPM initiate awareness
       campaigns to alert user communities to the possibility of redefinitions and
       that the technical and legislative implications of such redefinitions and their
-      practical realizations be carefully discussed and considered,
+      practical realizations be carefully discussed and considered, +
+      *and*
   - type: requests
     date_effective: 2007-11-16
-    message: "*and requests* the International Committee to report on these issues
+    message: "the International Committee to report on these issues
       to the 24th General Conference in 2011 and to undertake whatever preparations
       are considered necessary so that, if the results of experiments are found to
       be satisfactory and the needs of users met, formal proposals for changes in

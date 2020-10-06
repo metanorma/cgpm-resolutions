@@ -19,12 +19,12 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 2011-10-21
-    message: considering the international consensus on the importance, value, and
+    message: the international consensus on the importance, value, and
       potential benefits of a redefinition of a number of units of the International
       System of Units (SI),
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the national metrology institutes (NMIs) as well as
+    message: that the national metrology institutes (NMIs) as well as
       the International Bureau of Weights and Measures (BIPM) have rightfully expended
       significant effort during the last several decades to advance the International
       System of Units (SI) by extending the frontiers of metrology so that SI base
@@ -32,40 +32,40 @@ resolutions:
       physical constants or properties of atoms,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that a prominent example of the success of such efforts is
+    message: that a prominent example of the success of such efforts is
       the current definition of the SI unit of length, the metre (17th meeting of
       the CGPM, 1983, cgpm-resolution:en/17/1[Resolution 1]), which links it to an
       exact value of the speed of light in vacuum stem:[c], namely, 299 792 458 metre
       per second,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that of the seven base units of the SI, only the kilogram
+    message: that of the seven base units of the SI, only the kilogram
       is still defined in terms of a material artefact, namely, the international
       prototype of the kilogram (1st meeting of the CGPM, 1889, 3rd meeting of the
       CGPM, 1901), and that the definitions of the ampere, mole and candela depend
       on the kilogram,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that although the international prototype has served science
+    message: that although the international prototype has served science
       and technology well since it was sanctioned by the CGPM at its 1st meeting in
       1889, it has a number of important limitations, one of the most significant
       being that its mass is not explicitly linked to an invariant of nature and in
       consequence its long-term stability is not assured,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the CGPM at its 21st meeting in 1999 adopted cgpm-resolution:en/21/7[Resolution
+    message: that the CGPM at its 21st meeting in 1999 adopted cgpm-resolution:en/21/7[Resolution
       7] in which it recommended that "national laboratories continue their efforts
       to refine experiments that link the unit of mass to fundamental or atomic constants
       with a view to a future redefinition of the kilogram",
   - type: considering
     date_effective: 2011-10-21
-    message: considering that many advances have been made in recent years in relating
+    message: that many advances have been made in recent years in relating
       the mass of the international prototype to the Planck constant stem:[h], by
       methods which include watt balances and measurements of the mass of a silicon
       atom,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the uncertainties of all SI electrical units realized
+    message: that the uncertainties of all SI electrical units realized
       directly or indirectly by means of the Josephson and quantum Hall effects together
       with the SI values of the Josephson and von Klitzing constants stem:[K_("J")]
       and stem:[R_("K")] could be significantly reduced if the kilogram were redefined
@@ -74,16 +74,16 @@ resolutions:
       charge stem:[e],
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the kelvin is currently defined in terms of an intrinsic
+    message: that the kelvin is currently defined in terms of an intrinsic
       property of water that, while being an invariant of nature, in practice depends
       on the purity and isotopic composition of the water used,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that it is possible to redefine the kelvin so that it is
+    message: that it is possible to redefine the kelvin so that it is
       linked to an exact numerical value of the Boltzmann constant stem:[k],
   - type: considering
     date_effective: 2011-10-21
-    message: considering that it is also possible to redefine the mole so that it
+    message: that it is also possible to redefine the mole so that it
       is linked to an exact numerical value of the Avogadro constant stem:[N_("A")],
       and is thus no longer dependent on the definition of the kilogram even when
       the kilogram is defined so that it is linked to an exact numerical value of
@@ -91,13 +91,13 @@ resolutions:
       mass,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the uncertainties of the values of many other important
+    message: that the uncertainties of the values of many other important
       fundamental constants and energy conversion factors would be eliminated or greatly
       reduced if stem:[h], stem:[e], stem:[k] and stem:[N_("A")] had exact numerical
       values when expressed in SI units,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the General Conference, at its 23rd meeting in 2007,
+    message: that the General Conference, at its 23rd meeting in 2007,
       adopted cgpm-resolution:en/23/12[Resolution 12] in which it outlined the work
       that should be carried out by the NMIs, the BIPM and the International Committee
       for Weights and Measures (CIPM) together with its Consultative Committees (CCs)
@@ -105,14 +105,14 @@ resolutions:
       fundamental constants could be adopted,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that, although this work has progressed well, not all the
+    message: that, although this work has progressed well, not all the
       requirements set out in cgpm-resolution:en/23/12[Resolution 12] adopted by the
       General Conference at its 23rd meeting in 2007 have been satisfied and so the
       International Committee for Weights and Measures is not yet ready to make a
       final proposal,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that, nevertheless, a clear and detailed explanation of what
+    message: that, nevertheless, a clear and detailed explanation of what
       is likely to be proposed can now be presented,
   - type: noting
     date_effective: 2011-10-21
@@ -189,39 +189,39 @@ resolutions:
   actions:
   - type: encourages
     date_effective: 2011-10-21
-    message: encourages researchers in national metrology institutes, the BIPM and
+    message: researchers in national metrology institutes, the BIPM and
       academic institutions to continue their efforts and make known to the scientific
       community in general and to CODATA in particular, the outcome of their work
       relevant to the determination of the constants stem:[h], stem:[e], stem:[k],
       and stem:[N_("A")], and
   - type: encourages
     date_effective: 2011-10-21
-    message: encourages the BIPM to continue its work on relating the traceability
+    message: the BIPM to continue its work on relating the traceability
       of the prototypes it maintains to the international prototype of the kilogram,
       and in developing a pool of reference standards to facilitate the dissemination
       of the unit of mass when redefined,
   - type: invites / further invites
     date_effective: 2011-10-21
-    message: invites CODATA to continue to provide adjusted values of the fundamental
+    message: CODATA to continue to provide adjusted values of the fundamental
       physical constants based on all relevant information available and to make the
       results known to the International Committee through its Consultative Committee
       for Units since these CODATA values and uncertainties will be those used for
       the revised SI,
   - type: invites / further invites
     date_effective: 2011-10-21
-    message: invites the CIPM to make a proposal for the revision of the SI as soon
+    message: the CIPM to make a proposal for the revision of the SI as soon
       as the recommendations of Resolution 12 of the 23rd meeting of the General Conference
       are fulfilled, in particular the preparation of _mises en pratique_ for the
       new definitions of the kilogram, ampere, kelvin and mole,
   - type: invites / further invites
     date_effective: 2011-10-21
-    message: invites the CIPM to continue its work towards improved formulations for
+    message: the CIPM to continue its work towards improved formulations for
       the definitions of the SI base units in terms of fundamental constants, having
       as far as possible a more easily understandable description for users in general,
       consistent with scientific rigour and clarity,
   - type: invites / further invites
     date_effective: 2011-10-21
-    message: invites the CIPM, the Consultative Committees, the BIPM, the OIML and
+    message: the CIPM, the Consultative Committees, the BIPM, the OIML and
       National Metrology Institutes significantly to increase their efforts to initiate
       awareness campaigns aimed at alerting user communities and the general public
       to the intention to redefine various units of the SI and to encourage consideration
@@ -589,21 +589,32 @@ resolutions:
   - type: considering
     date_effective: 2011-10-21
     message: |-
-      *considering* that there have been rapid and important improvements in the performance of optical frequency standards,
-       national metrology institutes are working on comparison techniques for optical frequency standards over short distances,
-       remote comparison techniques need to be developed at an international level so that optical frequency standards can be compared,
+       that +
+       there have been rapid and important improvements in the performance of optical frequency standards,
+  - type: considering
+    date_effective: 2011-10-21
+    message: national metrology institutes are working on comparison techniques for optical frequency standards over short distances,
+  - type: considering
+    date_effective: 2011-10-21
+    message: remote comparison techniques need to be developed at an international level so that optical frequency standards can be compared,
   actions:
   - type: welcomes
     date_effective: 2011-10-21
-    message: |-
-      *welcomes* the activities of the joint working group of the CCTF and the CCL to review the frequencies of optically-based representations of the second,
-       the additions made by the CIPM in 2009 to the common list of "Recommended values of standard frequencies for applications including the practical realization of the metre and secondary representations of the second",
-       the establishment of a CCTF working group on Coordination of the Development of Advanced Time and Frequency Transfer Techniques,
+    message: the activities of the joint working group of the CCTF and the CCL to review the frequencies of optically-based representations of the second,
+  - type: welcomes
+    date_effective: 2011-10-21
+    message: the additions made by the CIPM in 2009 to the common list of "Recommended values of standard frequencies for applications including the practical realization of the metre and secondary representations of the second",
+  - type: welcomes
+    date_effective: 2011-10-21
+    message: the establishment of a CCTF working group on Coordination of the Development of Advanced Time and Frequency Transfer Techniques,
   - type: recommends
     date_effective: 2011-10-21
     message: |-
-      *recommends* that NMIs commit resources to the development of optical frequency standards and their comparison,
-       the BIPM supports the coordination of an international project with the participation of NMIs, oriented to the study of the techniques which could serve to compare optical frequency standards.
+      that +
+      NMIs commit resources to the development of optical frequency standards and their comparison,
+  - type: recommends
+    date_effective: 2011-10-21
+    message: the BIPM supports the coordination of an international project with the participation of NMIs, oriented to the study of the techniques which could serve to compare optical frequency standards.
 - dates:
   - 2011-10-21
   title: On the adoption of a common terrestrial reference system

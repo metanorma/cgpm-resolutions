@@ -156,19 +156,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 1964-10-13
-    message: 'considering that the 11th CGPM noted in its cgpm-resolution:fr/11/10[Resolution
+    message: 'that the 11th CGPM noted in its cgpm-resolution:fr/11/10[Resolution
       10] the urgency, in the interests of accurate metrology, of adopting an atomic
       or molecular standard of time interval, '
   - type: considering
     date_effective: 1964-10-13
-    message: considering that, in spite of the results already obtained with caesium
+    message: that, in spite of the results already obtained with caesium
       atomic frequency standards, the time has not yet come for the CGPM to adopt
       a new definition of the second, base unit of the Système International d'Unités,
       because of the new and considerable improvements likely to be obtained from
       work now in progress,
   - type: considering
     date_effective: 1964-10-13
-    message: "*considering also* that it is not desirable to wait any longer before
+    message: "*also* that it is not desirable to wait any longer before
       time measurements in physics are based on atomic or molecular frequency standards,"
   actions:
   - type: appoints
@@ -177,7 +177,7 @@ resolutions:
       atomic or molecular frequency standards to be employed for the time being,"
   - type: requests
     date_effective: 1964-10-13
-    message: "*requests* the organizations and laboratories knowledgeable in this
+    message: "the organizations and laboratories knowledgeable in this
       field to pursue work connected with a new definition of the second."
 - dates:
   - 1964-10-13
@@ -192,7 +192,7 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 1964-10-13
-    message: considering cgpm-resolution:en/11/13[Resolution 13] adopted by the 11th
+    message: cgpm-resolution:en/11/13[Resolution 13] adopted by the 11th
       CGPM in 1960 and the Recommendation adopted by the Comité International des
       Poids et Mesures in 1961,
   actions:
@@ -207,7 +207,7 @@ resolutions:
       for the cubic decimetre,"
   - type: recommends
     date_effective: 1964-10-13
-    message: recommends that the name litre should not be employed to give the results
+    message: that the name litre should not be employed to give the results
       of high-accuracy volume measurements.
 - dates:
   - 1964-10-13
@@ -222,11 +222,11 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 1964-10-13
-    message: "*considering* that the curie has been used for a long time in many countries
+    message: "that the curie has been used for a long time in many countries
       as unit of activity for radionuclides,"
   - type: recognizing
     date_effective: 1964-10-13
-    message: '*recognizing* that in the Système International d''Unités (SI), the
+    message: 'that in the Système International d''Unités (SI), the
       unit of this activity is the second to the power of minus one stem:[("s"^(-1))],'
   - type: acknowledging
     date_effective: 1964-10-13
@@ -248,7 +248,7 @@ resolutions:
   - type: decides
     date_effective: 1964-10-13
     message: |-
-      decides to add to the list of prefixes for the formation of names of multiples and submultiples of units, adopted by the 11th CGPM, cgpm-resolution:en/11/12#para3[Resolution 12], paragraph 3, the following two new prefixes:
+      to add to the list of prefixes for the formation of names of multiples and submultiples of units, adopted by the 11th CGPM, cgpm-resolution:en/11/12#para3[Resolution 12], paragraph 3, the following two new prefixes:
 
       |===
       | Multiplying factor | Prefix | Symbol
