@@ -201,9 +201,9 @@ resolutions:
     message: |-
       *abrogates*
        the definition of the litre given in 1901 by the 3rd CGPM,
-  - type: decides
+  - type: declares
     date_effective: 1964-10-13
-    message: "*declares* \nthat the word \"litre\" may be employed as a special name
+    message: "that the word \"litre\" may be employed as a special name
       for the cubic decimetre,"
   - type: recommends
     date_effective: 1964-10-13
