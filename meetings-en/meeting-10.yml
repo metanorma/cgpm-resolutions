@@ -97,10 +97,10 @@ resolutions:
       to believe that this definition of the standard atmosphere was valid only for
       accurate work in thermometry,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1954-10-14
     message: |-
-      *declares* that it adopts, for general use, the definition: +
+      that it adopts, for general use, the definition: +
 
       1 standard atmosphere = 1 013 250 dynes per square centimetre, +
       i.e., 101 325 newtons per square metre.
@@ -145,7 +145,7 @@ resolutions:
   - type: decides
     date_effective: 1954-10-14
     message: |-
-      decides to adopt as base units of the system the following units:
+      *decides* to adopt as base units of the system the following units:
 
       [width=80%]
       |===

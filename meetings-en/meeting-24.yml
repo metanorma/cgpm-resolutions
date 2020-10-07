@@ -19,12 +19,12 @@ resolutions:
   considerations:
   - type: considering
     date_effective: 2011-10-21
-    message: considering the international consensus on the importance, value, and
+    message: the international consensus on the importance, value, and
       potential benefits of a redefinition of a number of units of the International
       System of Units (SI),
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the national metrology institutes (NMIs) as well as
+    message: that the national metrology institutes (NMIs) as well as
       the International Bureau of Weights and Measures (BIPM) have rightfully expended
       significant effort during the last several decades to advance the International
       System of Units (SI) by extending the frontiers of metrology so that SI base
@@ -32,40 +32,40 @@ resolutions:
       physical constants or properties of atoms,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that a prominent example of the success of such efforts is
+    message: that a prominent example of the success of such efforts is
       the current definition of the SI unit of length, the metre (17th meeting of
       the CGPM, 1983, cgpm-resolution:en/17/1[Resolution 1]), which links it to an
       exact value of the speed of light in vacuum stem:[c], namely, 299 792 458 metre
       per second,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that of the seven base units of the SI, only the kilogram
+    message: that of the seven base units of the SI, only the kilogram
       is still defined in terms of a material artefact, namely, the international
       prototype of the kilogram (1st meeting of the CGPM, 1889, 3rd meeting of the
       CGPM, 1901), and that the definitions of the ampere, mole and candela depend
       on the kilogram,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that although the international prototype has served science
+    message: that although the international prototype has served science
       and technology well since it was sanctioned by the CGPM at its 1st meeting in
       1889, it has a number of important limitations, one of the most significant
       being that its mass is not explicitly linked to an invariant of nature and in
       consequence its long-term stability is not assured,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the CGPM at its 21st meeting in 1999 adopted cgpm-resolution:en/21/7[Resolution
+    message: that the CGPM at its 21st meeting in 1999 adopted cgpm-resolution:en/21/7[Resolution
       7] in which it recommended that "national laboratories continue their efforts
       to refine experiments that link the unit of mass to fundamental or atomic constants
       with a view to a future redefinition of the kilogram",
   - type: considering
     date_effective: 2011-10-21
-    message: considering that many advances have been made in recent years in relating
+    message: that many advances have been made in recent years in relating
       the mass of the international prototype to the Planck constant stem:[h], by
       methods which include watt balances and measurements of the mass of a silicon
       atom,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the uncertainties of all SI electrical units realized
+    message: that the uncertainties of all SI electrical units realized
       directly or indirectly by means of the Josephson and quantum Hall effects together
       with the SI values of the Josephson and von Klitzing constants stem:[K_("J")]
       and stem:[R_("K")] could be significantly reduced if the kilogram were redefined
@@ -74,16 +74,16 @@ resolutions:
       charge stem:[e],
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the kelvin is currently defined in terms of an intrinsic
+    message: that the kelvin is currently defined in terms of an intrinsic
       property of water that, while being an invariant of nature, in practice depends
       on the purity and isotopic composition of the water used,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that it is possible to redefine the kelvin so that it is
+    message: that it is possible to redefine the kelvin so that it is
       linked to an exact numerical value of the Boltzmann constant stem:[k],
   - type: considering
     date_effective: 2011-10-21
-    message: considering that it is also possible to redefine the mole so that it
+    message: that it is also possible to redefine the mole so that it
       is linked to an exact numerical value of the Avogadro constant stem:[N_("A")],
       and is thus no longer dependent on the definition of the kilogram even when
       the kilogram is defined so that it is linked to an exact numerical value of
@@ -91,13 +91,13 @@ resolutions:
       mass,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the uncertainties of the values of many other important
+    message: that the uncertainties of the values of many other important
       fundamental constants and energy conversion factors would be eliminated or greatly
       reduced if stem:[h], stem:[e], stem:[k] and stem:[N_("A")] had exact numerical
       values when expressed in SI units,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that the General Conference, at its 23rd meeting in 2007,
+    message: that the General Conference, at its 23rd meeting in 2007,
       adopted cgpm-resolution:en/23/12[Resolution 12] in which it outlined the work
       that should be carried out by the NMIs, the BIPM and the International Committee
       for Weights and Measures (CIPM) together with its Consultative Committees (CCs)
@@ -105,14 +105,14 @@ resolutions:
       fundamental constants could be adopted,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that, although this work has progressed well, not all the
+    message: that, although this work has progressed well, not all the
       requirements set out in cgpm-resolution:en/23/12[Resolution 12] adopted by the
       General Conference at its 23rd meeting in 2007 have been satisfied and so the
       International Committee for Weights and Measures is not yet ready to make a
       final proposal,
   - type: considering
     date_effective: 2011-10-21
-    message: considering that, nevertheless, a clear and detailed explanation of what
+    message: that, nevertheless, a clear and detailed explanation of what
       is likely to be proposed can now be presented,
   - type: noting
     date_effective: 2011-10-21
@@ -121,7 +121,7 @@ resolutions:
 
       * the International System of Units, the SI, will be the system of units in which:
 
-      ** the ground state hyperfine splitting frequency of the caesium 133 atom stem:[ sf Delta  nu (""_(133) "Cs")_("hfs")] is exactly 9 192 631 770 hertz,
+      ** the ground state hyperfine splitting frequency of the caesium 133 atom stem:[ sf Delta  nu (""^(133) "Cs")_("hfs")] is exactly 9 192 631 770 hertz,
       ** the speed of light in vacuum stem:[c] is exactly 299 792 458 metre per second,
       ** the Planck constant stem:[h] is exactly 6.626 06X ×stem:[10^(-34)] joule second,
       ** the elementary charge stem:[e] is exactly 1.602 17X ×stem:[10^(-19)] coulomb,
@@ -179,49 +179,49 @@ resolutions:
     message: |-
       *further notes* that on the same date
 
-      * the mass of the international prototype of the kilogram stem:[m(K)] will be stem:[1 "kg"] but with a relative uncertainty equal to that of the recommended value of stem:[h] just before redefinition and that subsequently its value will be determined experimentally,
+      * the mass of the international prototype of the kilogram stem:[m(K)] will be stem:[1 " kg"] but with a relative uncertainty equal to that of the recommended value of stem:[h] just before redefinition and that subsequently its value will be determined experimentally,
       * that the magnetic constant (permeability of vacuum) stem:[µ_(0)] will be stem:[4 pi  * 10^(-7) "H" * "m"^(-1)] but with a relative uncertainty equal to that of the recommended value of the fine-structure constant stem:[ alpha ] and that subsequently its value will be determined experimentally,
       * that the thermodynamic temperature of the triple point of water stem:[T_(TPW)] will be stem:[273.16 "K"] but with a relative uncertainty equal to that of the recommended value of stem:[k] just before redefinition and that subsequently its value will be determined experimentally,
-      * that the molar mass of carbon stem:[12 M(""_(12) "C")] will be stem:[0.012 "kg" * "mol"^(-1)] but with a relative uncertainty equal to that of the recommended value of stem:[N_("A")h] just before redefinition and that subsequently its value will be determined experimentally.
+      * that the molar mass of carbon stem:[12 M(""^(12) "C")] will be stem:[0.012 " kg" * "mol"^(-1)] but with a relative uncertainty equal to that of the recommended value of stem:[N_("A")h] just before redefinition and that subsequently its value will be determined experimentally.
        +
 
       The General Conference on Weights and Measures
   actions:
   - type: encourages
     date_effective: 2011-10-21
-    message: encourages researchers in national metrology institutes, the BIPM and
+    message: researchers in national metrology institutes, the BIPM and
       academic institutions to continue their efforts and make known to the scientific
       community in general and to CODATA in particular, the outcome of their work
       relevant to the determination of the constants stem:[h], stem:[e], stem:[k],
       and stem:[N_("A")], and
   - type: encourages
     date_effective: 2011-10-21
-    message: encourages the BIPM to continue its work on relating the traceability
+    message: the BIPM to continue its work on relating the traceability
       of the prototypes it maintains to the international prototype of the kilogram,
       and in developing a pool of reference standards to facilitate the dissemination
       of the unit of mass when redefined,
   - type: invites / further invites
     date_effective: 2011-10-21
-    message: invites CODATA to continue to provide adjusted values of the fundamental
+    message: CODATA to continue to provide adjusted values of the fundamental
       physical constants based on all relevant information available and to make the
       results known to the International Committee through its Consultative Committee
       for Units since these CODATA values and uncertainties will be those used for
       the revised SI,
   - type: invites / further invites
     date_effective: 2011-10-21
-    message: invites the CIPM to make a proposal for the revision of the SI as soon
+    message: the CIPM to make a proposal for the revision of the SI as soon
       as the recommendations of Resolution 12 of the 23rd meeting of the General Conference
       are fulfilled, in particular the preparation of _mises en pratique_ for the
       new definitions of the kilogram, ampere, kelvin and mole,
   - type: invites / further invites
     date_effective: 2011-10-21
-    message: invites the CIPM to continue its work towards improved formulations for
+    message: the CIPM to continue its work towards improved formulations for
       the definitions of the SI base units in terms of fundamental constants, having
       as far as possible a more easily understandable description for users in general,
       consistent with scientific rigour and clarity,
   - type: invites / further invites
     date_effective: 2011-10-21
-    message: invites the CIPM, the Consultative Committees, the BIPM, the OIML and
+    message: the CIPM, the Consultative Committees, the BIPM, the OIML and
       National Metrology Institutes significantly to increase their efforts to initiate
       awareness campaigns aimed at alerting user communities and the general public
       to the intention to redefine various units of the SI and to encourage consideration
@@ -354,7 +354,7 @@ resolutions:
     date_effective: 2011-10-21
     message: |-
       *decides* that the annual dotation of the BIPM, as defined in Article 6, 1921, of the Regulations annexed to the Metre Convention, will be increased in such a way that, for those States that are Parties to the Metre Convention at the time of the 24th meeting of the CGPM, it shall be:
-
+      +
       11 577 000 euros in 2013 +
       11 693 000 euros in 2014 +
       11 810 000 euros in 2015
@@ -508,8 +508,10 @@ resolutions:
       *considering* Article 6 paragraphs 6 to 8 of the Regulations annexed to the Metre Convention reads:
       _"6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées._ +
       _7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années._ +
-      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_ [[_ftnref1]] cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) defining the decision-making process and a procedure governing the recovery of arrears and exclusion,
-       the contributions of States Parties to the Metre Convention in arrears for more than 6 years and advances made by the other States Parties pursuant to Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
+      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_
+      +
+      cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) defining the decision-making process and a procedure governing the recovery of arrears and exclusion,
+      the contributions of States Parties to the Metre Convention in arrears for more than 6 years and advances made by the other States Parties pursuant to Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
   - type: reaffirming
     date_effective: 2011-10-21
     message: "*reaffirming* the absolute necessity that contributions of States Parties
@@ -522,8 +524,6 @@ resolutions:
       *decides* for States Parties in arrears for more than 6 years to grant a period of 12 months from the date of adoption of the present Resolution to conclude with the International Committee for Weights and Measures (CIPM) a rescheduling agreement,
        that if a rescheduling agreement is not concluded within 12 months, those States will automatically be excluded, and the CIPM will inform in writing the French Ministry of Foreign and European Affairs for notification to this effect to those States and to all States Parties to the Metre Convention on behalf of the CGPM, and
        that the calculation of contributions is re-established in accordance with the applicable provisions in the most immediate calendar year after exclusion.
-       +
-       +
   appendices:
   - identifier: 1
     message: |-
@@ -550,7 +550,9 @@ resolutions:
       *recalling that* Article 6 paragraphs 6 to 8 of the Rules annexed to the Metre Convention reads:
       _"6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées._ +
       _7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années._ +
-      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_ [[_ftnref1]] cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) which provides that when a State Party to the Metre Convention has not paid its contributions for six years, the International Committee for Weights and Measures (CIPM) may enter into a rescheduling agreement with the defaulting State for the payment of its arrears,
+      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_
+      +
+      cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) which provides that when a State Party to the Metre Convention has not paid its contributions for six years, the International Committee for Weights and Measures (CIPM) may enter into a rescheduling agreement with the defaulting State for the payment of its arrears,
   - type: considering
     date_effective: 2011-10-21
     message: |-
@@ -565,8 +567,6 @@ resolutions:
        the annual contribution of the defaulting State shall no longer be distributed among the other States Parties to the Metre Convention starting from the year following the entry into force of the rescheduling agreement,
        the advantages and prerogatives conferred by accession to the Metre Convention shall be suspended in the case that the defaulting State breaches the rescheduling agreement and its contribution be distributed among the other States Parties to the Metre Convention by applying the provisions of Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
        if the State breaches the rescheduling agreement for more than 12 months, it will be automatically excluded.
-       +
-       +
   appendices:
   - identifier: 1
     message: |-
@@ -589,21 +589,32 @@ resolutions:
   - type: considering
     date_effective: 2011-10-21
     message: |-
-      *considering* that there have been rapid and important improvements in the performance of optical frequency standards,
-       national metrology institutes are working on comparison techniques for optical frequency standards over short distances,
-       remote comparison techniques need to be developed at an international level so that optical frequency standards can be compared,
+       that +
+       there have been rapid and important improvements in the performance of optical frequency standards,
+  - type: considering
+    date_effective: 2011-10-21
+    message: national metrology institutes are working on comparison techniques for optical frequency standards over short distances,
+  - type: considering
+    date_effective: 2011-10-21
+    message: remote comparison techniques need to be developed at an international level so that optical frequency standards can be compared,
   actions:
   - type: welcomes
     date_effective: 2011-10-21
-    message: |-
-      *welcomes* the activities of the joint working group of the CCTF and the CCL to review the frequencies of optically-based representations of the second,
-       the additions made by the CIPM in 2009 to the common list of "Recommended values of standard frequencies for applications including the practical realization of the metre and secondary representations of the second",
-       the establishment of a CCTF working group on Coordination of the Development of Advanced Time and Frequency Transfer Techniques,
+    message: the activities of the joint working group of the CCTF and the CCL to review the frequencies of optically-based representations of the second,
+  - type: welcomes
+    date_effective: 2011-10-21
+    message: the additions made by the CIPM in 2009 to the common list of "Recommended values of standard frequencies for applications including the practical realization of the metre and secondary representations of the second",
+  - type: welcomes
+    date_effective: 2011-10-21
+    message: the establishment of a CCTF working group on Coordination of the Development of Advanced Time and Frequency Transfer Techniques,
   - type: recommends
     date_effective: 2011-10-21
     message: |-
-      *recommends* that NMIs commit resources to the development of optical frequency standards and their comparison,
-       the BIPM supports the coordination of an international project with the participation of NMIs, oriented to the study of the techniques which could serve to compare optical frequency standards.
+      that +
+      NMIs commit resources to the development of optical frequency standards and their comparison,
+  - type: recommends
+    date_effective: 2011-10-21
+    message: the BIPM supports the coordination of an international project with the participation of NMIs, oriented to the study of the techniques which could serve to compare optical frequency standards.
 - dates:
   - 2011-10-21
   title: On the adoption of a common terrestrial reference system
