@@ -95,7 +95,7 @@ resolutions:
       l'atmosphère normale était limitée aux besoins de la thermométrie de précision,
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1954-10-14
     message: |-
       *déclare* qu'elle adopte, pour tous les usages, la définition : +

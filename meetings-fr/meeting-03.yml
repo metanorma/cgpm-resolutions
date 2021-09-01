@@ -17,7 +17,7 @@ resolutions:
     message: Unanimous
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1901-10-22
     message: |-
       La Conférence déclare :
@@ -38,11 +38,11 @@ resolutions:
     degree: unanimous
     message: Unanimous
   considerations:
-  - type: having / having regard
+  - type: taking into account
     date_effective: 1901-10-22
     message: "*Vu* la décision du Comité international des poids et mesures du 15
       octobre 1887, par laquelle le kilogramme a été défini comme unité de masse ;"
-  - type: having / having regard
+  - type: taking into account
     date_effective: 1901-10-22
     message: "*Vu* la décision contenue dans la formule de sanction des prototypes
       du Système métrique, acceptée à l'unanimité par la Conférence générale des poids
@@ -53,7 +53,7 @@ resolutions:
       dans l'usage courant sur la signification du terme _poids_, employé tantôt dans
       le sens du terme _masse_, tantôt dans le sens du terme _effort mécanique_ ;"
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1901-10-22
     message: |-
       *La Conférence déclare :*

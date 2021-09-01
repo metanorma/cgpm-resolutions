@@ -41,7 +41,7 @@ resolutions:
     message: considérant la déclaration du Président du Comité international des poids
       et mesures approuvant ce Rapport,
   actions:
-  - type: appoints
+  - type: authorizes
     date_effective: 1933-10-10
     message: autorise le Comité international à faire, à tous les certificats des
       mètres prototypes des coulées Johnson-Matthey et de 1874, une addition donnant
@@ -77,13 +77,13 @@ resolutions:
     message: considérant la déclaration du Président du Comité international des poids
       et mesures approuvant, au nom du Comité, les termes de ce Rapport,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1933-10-10
     message: déclare n'être plus parfaitement conformes à la réalité les équations
       sanctionnées par la Première Conférence générale ; elle annule en conséquence
       les certificats y relatifs en ce qui concerne les équations et en prolonge la
       validité pour le reste,
-  - type: appoints
+  - type: authorizes
     date_effective: 1933-10-10
     message: autorise le Comité international à faire auxdits certificats une addition
       portant la valeur de la longueur à 0° des Mètres n^os^ 1, 8, 14, 15, 17, 18,
@@ -150,13 +150,13 @@ resolutions:
     message: entendu la déclaration du Président du Comité international des poids
       et mesures approuvant, au nom du Comité, les termes de ce Rapport,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1933-10-10
     message: déclare n'être plus parfaitement conformes à la réalité les équations
       sanctionnées par la Première Conférence générale ; elle annule en conséquence
       les certificats en ce qui concerne les équations et en prolonge la validité
       pour le reste,
-  - type: appoints
+  - type: authorizes
     date_effective: 1933-10-10
     message: autorise le Comité international à faire auxdits certificats une addition
       portant la valeur de la masse des kilogrammes n° 14 et 15, telle qu'elle résulte
@@ -190,7 +190,7 @@ resolutions:
     message: entendu la déclaration du Président du Comité international des poids
       et mesures approuvant ce rapport, au nom du Comité,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1933-10-10
     message: déclare homologuer le certificat délivré à la date du 20 octobre 1929,
       relatif aux comparaisons effectuées sur le kilogramme n° 41 et donnant son équation,
@@ -248,7 +248,7 @@ resolutions:
       n'ont pas encore terminé les mesures nécessaires pour relier les unités internationales
       aux unités absolues,
   actions:
-  - type: decides
+  - type: sanctions
     date_effective: 1933-10-10
     message: sanctionne le principe de la substitution du Système absolu des unités
       électriques au Système international ;
@@ -302,7 +302,7 @@ resolutions:
     message: ayant entendu l'avis de M. le Président du Comité international des poids
       et mesures,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1933-10-10
     message: déclare qu'elle se considère comme faisant suite à la Conférence de Londres
       de 1908, et qu'en conséquence, elle délègue au Comité international tous pouvoirs
@@ -380,6 +380,6 @@ resolutions:
       à constituer un Comité consultatif de métrologie appliquée auprès du Comité
       international des poids et mesures,
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 1933-10-10
     message: charge le Comité international de l'étude de cette question.
