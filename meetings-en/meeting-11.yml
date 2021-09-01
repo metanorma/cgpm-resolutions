@@ -62,7 +62,7 @@ resolutions:
       les règles générales de la métrologie et les règles particulières à chaque forme
       d'étalon,
   actions:
-  - type: approves
+  - type: endorses
     date_effective: 1960-10-20
     message: entérine l'action déjà engagée par le Comité international des poids
       et mesures dans le domaine des radiations ionisantes, et
@@ -122,7 +122,7 @@ resolutions:
     message: remercie l'Institut du radium de l'Université de Paris d'avoir bien voulu
       confier au Bureau international des poids et mesures la garde de l'Étalon international
       de radium N° 5430, et
-  - type: appoints
+  - type: authorizes
     date_effective: 1960-10-20
     message: autorise le Bureau international à prendre en charge cet Étalon.
 - dates:
@@ -279,7 +279,7 @@ resolutions:
     message: considérant les premières instructions préparées par le Comité international
       des poids et mesures sur la mise en pratique de la nouvelle définition du mètre,
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 1960-10-20
     message: charge le Bureau international des poids et mesures de déterminer comme
       par le passé les Prototypes nationaux.
@@ -302,7 +302,7 @@ resolutions:
     date_effective: 1960-10-20
     message: considering the decision taken by the CIPM in 1956,
   actions:
-  - type: decides
+  - type: ratifies
     date_effective: 1960-10-20
     message: |-
       *ratifies* the following definition:
@@ -521,7 +521,7 @@ resolutions:
       règlements établis pour les ressortissants et établissements nationaux français
       ou étrangers se trouvant en France,
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 1960-10-20
     message: charge le Comité international des poids et mesures de négocier avec
       le Gouvernement français un accord de siège sur une base non discriminatoire
