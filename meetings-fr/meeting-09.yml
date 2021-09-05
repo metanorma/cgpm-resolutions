@@ -195,7 +195,7 @@ resolutions:
       analogue, accompagnée d'un projet destiné à servir de base de discussion pour
       l'établissement d'une réglementation complète des unités de mesure ;
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 1948-10-21
     message: |-
       *charge* le Comité international :
@@ -237,17 +237,17 @@ resolutions:
       stem:[\"°K\"] .<| lux .<| stem:[\"lx\"]\n.<| calorie .<| stem:[\"cal\"] .<|
       lumen .<| stem:[\"lm\"]\n.<| stem:[\"bar\"] .<| stem:[\"bar\"] .<| stilb .<|
       stem:[\"sb\"]\n.<| heure .<| stem:[\"h\"] .<|   .<|  \n\n|==="
-  - type: affirms / reaffirming
+  - type: notes
     date_effective: 1948-10-21
     message: Remarques Les symboles dont les unités sont précédées d'un point sont
       ceux qui avaient déjà été antérieurement adoptés par une décision du Comité
       international.
-  - type: affirms / reaffirming
+  - type: notes
     date_effective: 1948-10-21
     message: Remarques L'unité de volume stère, employée dans le mesurage des bois,
       aura pour symbole « st » et non plus « stem:["s"] », qui lui avait été précédemment
       affecté par le Comité international.
-  - type: affirms / reaffirming
+  - type: notes
     date_effective: 1948-10-21
     message: Remarques S'il s'agit, non d'une température, mais d'un intervalle ou
       d'une différence de température, le mot « degré » doit être écrit en toutes

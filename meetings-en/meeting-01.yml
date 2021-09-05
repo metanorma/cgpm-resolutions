@@ -49,17 +49,21 @@ resolutions:
     message: considering that the international Metre and Kilogram and the national
       Metres and Kilograms fulfil the requirements of the Metre Convention,
   actions:
-  - type: decides
+  - type: sanctions
     date_effective: 1889-09-28
     message: |-
       *sanctions*
 
       [type=A]
-      . As regards international prototypes:
+      . Regarding international prototypes:
 
       .. The Prototype of the metre chosen by the CIPM. This prototype, at the temperature of melting ice, shall henceforth represent the metric unit of length.
       .. The Prototype of the kilogram adopted by the CIPM. This prototype shall henceforth be considered as the unit of mass.
       .. The hydrogen thermometer centigrade scale in terms of which the equations of the prototype Metres have been established.
-      . As regards national prototypes:
+      . Regarding national prototypes:
 
-      ...
+      .. Meters of platinum iridium, the equations of which, with respect to the international Prototype, are contained within the limit of 0.01 millimeter, with a probable error not exceeding ± 0.0002 millimeter.
+      .. Kilograms of platinum iridium, the equations of which are contained within the limit of 1 milligram, with a probable error not exceeding ± 0.005 milligram.
+      
+      . Regarding the equations of the national prototypes:
+      The equations of the national prototypes, as determined at the International Bureau, under the direction of the CIPM, and recorded in the Report of this Committee and on the certificates accompanying these prototypes.

@@ -546,7 +546,7 @@ resolutions:
       points, ni par des virgules », comme le recommande la cgpm-resolution:fr/9/7[Résolution
       7] de la 9^e^ Conférence générale de 1948.
   actions:
-  - type: decides
+  - type: declares
     date_effective: 2003-10-17
     message: déclare que le symbole du séparateur décimal pourra être le point sur
       la ligne ou la virgule sur la ligne,

@@ -147,7 +147,7 @@ resolutions:
     message: La Seizième Conférence générale des poids et mesures,
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: 1979-10-12
     message: charge le Comité international des poids et mesures d'organiser des comparaisons
       internationales afin que soit contrôlée l'uniformité des résultats des mesures

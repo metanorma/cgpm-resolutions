@@ -97,7 +97,7 @@ resolutions:
       to believe that this definition of the standard atmosphere was valid only for
       accurate work in thermometry,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1954-10-14
     message: |-
       *declares* that it adopts, for general use, the definition: +

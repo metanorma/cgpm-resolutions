@@ -95,7 +95,7 @@ resolutions:
     message: lance un appel à tous les États adhérents de la Convention du Mètre de
       faire tout ce qui dépend d'eux pour un travail fructueux du Comité international
       des poids et mesures et du Bureau international, et
-  - type: appoints
+  - type: charges
     date_effective: 1964-10-13
     message: charge le Comité international des poids et mesures de prendre toutes
       les mesures nécessaires à l'expansion ultérieure du Système Métrique et à l'adhésion
@@ -176,7 +176,7 @@ resolutions:
     message: "*considering also* that it is not desirable to wait any longer before
       time measurements in physics are based on atomic or molecular frequency standards,"
   actions:
-  - type: appoints
+  - type: empowers
     date_effective: 1964-10-13
     message: "*empowers* the Comité International des Poids et Mesures to name the
       atomic or molecular frequency standards to be employed for the time being,"
@@ -201,12 +201,12 @@ resolutions:
       CGPM in 1960 and the Recommendation adopted by the Comité International des
       Poids et Mesures in 1961,
   actions:
-  - type: decides
+  - type: abrogates
     date_effective: 1964-10-13
     message: |-
       *abrogates*
        the definition of the litre given in 1901 by the 3rd CGPM,
-  - type: decides
+  - type: declares
     date_effective: 1964-10-13
     message: "*declares* \nthat the word \"litre\" may be employed as a special name
       for the cubic decimetre,"
@@ -233,7 +233,7 @@ resolutions:
     date_effective: 1964-10-13
     message: '*recognizing* that in the Système International d''Unités (SI), the
       unit of this activity is the second to the power of minus one stem:[("s"^(-1))],'
-  - type: acknowledging
+  - type: accepts
     date_effective: 1964-10-13
     message: '*accepts* that the curie be still retained, outside SI, as unit of activity,
       with the value stem:[3.7 * 10^(10) "s"^(-1)]. The symbol for this unit is Ci.'

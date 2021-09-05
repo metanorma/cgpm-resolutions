@@ -21,7 +21,7 @@ resolutions:
     message: noting that the accuracy of clock comparisons has been greatly improved
       by the use of satellite techniques,
   actions:
-  - type: affirms / reaffirming
+  - type: remarks
     date_effective: 1991-10-03
     message: |-
       remarks that this accuracy

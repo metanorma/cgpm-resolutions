@@ -95,7 +95,7 @@ resolutions:
     message: lance un appel à tous les États adhérents de la Convention du Mètre de
       faire tout ce qui dépend d'eux pour un travail fructueux du Comité international
       des poids et mesures et du Bureau international, et
-  - type: appoints
+  - type: charges
     date_effective: 1964-10-13
     message: charge le Comité international des poids et mesures de prendre toutes
       les mesures nécessaires à l'expansion ultérieure du Système Métrique et à l'adhésion
@@ -178,7 +178,7 @@ resolutions:
       les mesures physiques de temps sur des étalons atomiques ou moléculaires de
       fréquence,"
   actions:
-  - type: appoints
+  - type: empowers
     date_effective: 1964-10-13
     message: "*habilite* le Comité international des poids et mesures à désigner les
       étalons atomiques ou moléculaires de fréquence à employer temporairement,"
@@ -203,12 +203,12 @@ resolutions:
       Onzième Conférence générale en 1960 et la Recommandation adoptée par le Comité
       international des poids et mesures à sa session de 1961,
   actions:
-  - type: decides
+  - type: abrogates
     date_effective: 1964-10-13
     message: |-
       *abroge*
        la définition du litre donnée en 1901 par la Troisième Conférence générale des poids et mesures,
-  - type: decides
+  - type: declares
     date_effective: 1964-10-13
     message: "*déclare* \nque le mot « litre » peut être utilisé comme un nom spécial
       donné au décimètre cube,"

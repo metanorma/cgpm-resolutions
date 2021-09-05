@@ -192,43 +192,43 @@ resolutions:
       en rotation » alors que la définition de stem:["TT"] ne fait pas référence au
       géoïde,
   actions:
-  - type: decides
+  - type: declares
     date_effective: 2018-11-16
     message: déclare que le TAI est une échelle de temps continue produite par le
       BIPM à partir des meilleures réalisations de la seconde du SI et que c'est une
       réalisation de stem:["TT"] comme défini dans la Résolution B1.9 (2000) de l'UAI,
-  - type: decides
+  - type: declares
     date_effective: 2018-11-16
     message: déclare que pour la conversion du temps propre d'une horloge en TAI,
       le décalage relativiste de fréquence est calculé par rapport à la surface équipotentielle
       stem:[W_(0) = 62 636 856","0 "m"^(2) * "s"^(-2)] du potentiel de pesanteur de
       la Terre, adoptée de façon conventionnelle, en conformité avec la constante
       LG définissant la marche de stem:["TT"],
-  - type: decides
+  - type: declares
     date_effective: 2018-11-16
     message: déclare que tel qu'indiqué dans la Résolution A4 (1991) de l'UAI, stem:["TT"]
       - TAI est égal à stem:[32","184 "s"] exactement au 1^er^ janvier 1977, 0h TAI
       au géocentre, pour assurer une continuité de stem:["TT"] avec le temps des éphémérides,
-  - type: decides
+  - type: declares
     date_effective: 2018-11-16
     message: déclare que l'UTC produit par le BIPM, fondé sur le TAI, est l'unique
       échelle de temps recommandée comme référence internationale et qu'il est à la
       base du temps civil dans la plupart des pays,
-  - type: decides
+  - type: declares
     date_effective: 2018-11-16
     message: déclare que l'UTC diffère du TAI seulement par un nombre entier de secondes,
       tel que publié par le BIPM,
-  - type: decides
+  - type: declares
     date_effective: 2018-11-16
     message: déclare que les utilisateurs peuvent dériver l'angle de rotation de la
       Terre en appliquant à l'UTC les valeurs observées ou prédites d'UT1 - UTC, telles
       que fournies par l'IERS,
-  - type: decides
+  - type: declares
     date_effective: 2018-11-16
     message: déclare que l'UTC fournit un moyen de mesurer les intervalles de temps
       et de disséminer l'étalon de fréquence pendant les intervalles qui ne comprennent
       pas de secondes intercalaires,
-  - type: decides
+  - type: declares
     date_effective: 2018-11-16
     message: déclare que la traçabilité à l'UTC est obtenue par l'intermédiaire des
       réalisations locales en temps réel maintenues par les laboratoires participant
@@ -436,7 +436,7 @@ resolutions:
       7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années. +
       8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement._ » +
       * la Résolution 8 adoptée par la CGPM à sa 23^e^réunion (2007) sur les contributions arriérées des États Membres, qui établit une procédure concernant les États qui ne respectent pas leurs obligations financières
-  - type: noting
+  - type: observing
     date_effective: 2018-11-16
     message: |-
       *observant* que
@@ -471,7 +471,7 @@ resolutions:
   - type: considering
     date_effective: 2018-11-16
     message: |-
-      *considérant*que
+      *considérant* que
 
       * la clarté de la procédure et le traitement équitable des États Membres sont des questions de bonne gouvernance et sont bénéfiques à toutes les parties,
       * le Comité international des poids et mesures (CIPM), en tant qu'organe de surveillance permanent du BIPM, pourrait appliquer l'article 6 alinéa 8 du Règlement annexé en temps opportun,
@@ -479,14 +479,14 @@ resolutions:
   - type: decides
     date_effective: 2018-11-16
     message: |-
-      *décide*que
+      *décide* que
 
       * le CIPM appliquera l'article 6 alinéa 8 du Règlement annexé,
       * le CIPM traitera des cas où la pratique historique a conduit à l'accumulation d'arriérés,
   - type: confirms
     date_effective: 2018-11-16
     message: |-
-      *confirme*que
+      *confirme* que
 
       * le CIPM notifiera toute exclusion au Ministère français de l'Europe et des Affaires étrangères, qui informera à son tour l'État exclu ainsi que l'ensemble des États Membres,
       * un État Membre exclu ne peut de nouveau accéder à la Convention du Mètre que si le reliquat de ses contributions arriérées a été acquitté,

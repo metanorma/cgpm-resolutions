@@ -17,12 +17,12 @@ resolutions:
     message: The Conference
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1901-10-22
     message: 'declares The unit of volume, for high accuracy determinations, is the
       volume occupied by a mass of 1 kilogram of pure water, at its maximum density
       and at standard atmospheric pressure: this volume is called "litre".'
-  - type: decides
+  - type: declares
     date_effective: 1901-10-22
     message: declares . . .
 - dates:
@@ -53,17 +53,17 @@ resolutions:
       current practice still exists on the meaning of the word _weight_, used sometimes
       for _mass_, sometimes for _mechanical force_;"
   actions:
-  - type: decides
+  - type: declares
     date_effective: 1901-10-22
     message: The Conference declares The kilogram is the unit of mass; it is equal
       to the mass of the international prototype of the kilogram;
-  - type: decides
+  - type: declares
     date_effective: 1901-10-22
     message: 'The Conference declares The word "weight" denotes a quantity of the
       same nature as a "force": the weight of a body is the product of its mass and
       the acceleration due to gravity; in particular, the standard weight of a body
       is the product of its mass and the standard acceleration due to gravity;'
-  - type: decides
+  - type: declares
     date_effective: 1901-10-22
     message: The Conference declares The value adopted in the International Service
       of Weights and Measures for the standard acceleration due to gravity is stem:[980.665

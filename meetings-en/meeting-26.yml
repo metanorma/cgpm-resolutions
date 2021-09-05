@@ -193,40 +193,40 @@ resolutions:
       "_the SI second as realized on the rotating geoid as the scale unit_" while
       the definition of stem:["TT"] does not refer to the geoid,
   actions:
-  - type: affirms / reaffirming
+  - type: states
     date_effective: 2018-11-16
     message: 'states that TAI is a continuous time scale produced by the BIPM based
       on the best realizations of the SI second, and is a realization of stem:["TT"]
       as defined by IAU Resolution B1.9 (2000), '
-  - type: affirms / reaffirming
+  - type: states
     date_effective: 2018-11-16
     message: states that in the transformation from the proper time of a clock to
       TAI, the relativistic rate shift is computed with respect to the conventionally
       adopted equipotential stem:[W_(0) = 62 636 856.0 "m"^(2)"s"^(-2)] of the Earth's
       gravity potential, which conforms to the constant stem:[L_(G)] defining the
       rate of stem:["TT"],
-  - type: affirms / reaffirming
+  - type: states
     date_effective: 2018-11-16
     message: 'states that as stated in the IAU Resolution A4 (1991), stem:["TT"] -
       TAI = stem:[32.184 "s"] exactly at 1 January 1977, 0h TAI at the geocentre,
       in order to ensure continuity of stem:["TT"] with Ephemeris Time, '
-  - type: affirms / reaffirming
+  - type: states
     date_effective: 2018-11-16
     message: 'states that UTC produced by the BIPM, based on TAI, is the only recommended
       time scale for international reference and the basis of civil time in most countries, '
-  - type: affirms / reaffirming
+  - type: states
     date_effective: 2018-11-16
     message: 'states that UTC differs from TAI only by an integral number of seconds
       as published by the BIPM, '
-  - type: affirms / reaffirming
+  - type: states
     date_effective: 2018-11-16
     message: 'states that users can derive the rotation angle of the Earth by applying
       to UTC the observed or predicted values of UT1 - UTC, as provided by the IERS, '
-  - type: affirms / reaffirming
+  - type: states
     date_effective: 2018-11-16
     message: 'states that UTC provides a means to measure time intervals and to disseminate
       the standard of frequency during intervals in which leap seconds do not occur, '
-  - type: affirms / reaffirming
+  - type: states
     date_effective: 2018-11-16
     message: states that traceability to UTC is obtained through local real-time realizations
       "stem:["UTC" (k)]" maintained by laboratories contributing data to the calculation
@@ -423,12 +423,12 @@ resolutions:
       8 adopted by the CGPM at its 23rd meeting (2007)] on financial arrears of Member
       States sets a procedure concerning States who fail to fulfil their financial
       obligations,"
-  - type: noting
+  - type: observing
     date_effective: 2018-11-16
     message: 'observing that paragraphs 6 and 7 of Article 6 of the Annexed Regulations
       foresee that whilst the advantages and prerogatives of Member States are suspended
       for those States in arrears by three years, their contributions remain due, '
-  - type: noting
+  - type: observing
     date_effective: 2018-11-16
     message: observing that historical practice has always been to apply paragraphs
       6 and 7 of Article 6 of the Annexed Regulations,
